@@ -1,2 +1,2 @@
 # SitePessoal
- Meu site de currículo
+Meu novo site para apresentar em currículo. Diferente de meu outro portifólio que conta minha história de uma maneira mais aprofundada e datalhada, esse tem o objetivo de me apresentar de uma forma mais dinâmica possível, para que qualquer pessoa interessada possa me conhecer no menor tempo possível.
