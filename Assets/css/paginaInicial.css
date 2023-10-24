@@ -10,7 +10,7 @@
     --gradiente1-1: #2B282F;
     --gradiente1-2: #4E435C;
     --gradiente1-3: #4E435C;
-    --quemsou: #9284A5;
+    --quemsou: #9c8cb1;
     --coricones: #F2E8B3;
     --gradiente2-1: #CFBBE6;
     --gradiente2-2: #DACADA;
@@ -22,7 +22,7 @@
 *{
     margin: 0px;
     padding: 0px;  
-    width: 98vw;
+    
     font-family: var(--titulo);
 }
 
@@ -32,39 +32,66 @@ ul{
 
 
 body, html{
+    width: 98vw;
     background-color: black;
 }
 
 section.primeiraParte{
     background-image: radial-gradient(circle, var(--gradiente1-3),var(--gradiente1-2), var(--gradiente1-1));
-    width: 98.7vw;
+    width: 100vw;
     min-height: 100vh;
     text-align: center;
     height: 540px;
     color: white;
+    display: grid;
+    place-items: center; 
 }
 
-section.primeiraParte > div > div.icones > a > i{
+section.primeiraParte > div {
+    width: 90vw;
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+}
+
+section.primeiraParte > div > p.quemSou {
     display: inline-block;
-    font-size: 41px;
+    color: var(--quemsou);
+}
+
+section.primeiraParte > div > div.container {
+    display: flex;
+    border: solid 2px black;
+}
+
+section.primeiraParte > div > div.container > h1.titulo1{
+    display: inline-block;
+    font-size: 50px;
+}
+
+
+section.primeiraParte > div > div > div.icones{
+display: inline-block;
+margin: auto;
+}
+
+
+section.primeiraParte > div > div > div.icones > a > i{
+    display: inline-block;
+    font-size: 25px;
     color: var(--coricones);
-    font-weight: 30px;
-    width:  40px;
-    height: 40px;
-
+    margin-right: 5px
 }
 
-section.primeiraParte > div > div.icones > a > img{
+section.primeiraParte > div > div > div.icones > a > img{
     display: inline-block;
-    width:  40px;
-    height: 37px;
+    width:  29px;
+    height: 28px;
 }
 
-section.primeiraParte > p.story{
+section.primeiraParte > div > p.story, section.primeiraParte > div > span > p.story{
     text-align: justify;
-    margin-left: 780px;
     font-size: 11px;
-    line-height: 25px;
     font-weight: normal;
     font-family: sans-serif;
     letter-spacing: 1px;
