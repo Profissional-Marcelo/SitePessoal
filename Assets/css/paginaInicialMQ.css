@@ -1,6 +1,4 @@
-
-
-/* section.segundaParte{
+section.segundaParte{
     background-image: linear-gradient(to bottom, var(--gradiente2-1), var(--gradiente2-2), var(--gradiente2-3));
     width: 98.7vw;
     height: 600px;
@@ -27,9 +25,9 @@ section.segundaParte > div.espacamento > div > img{
     height: 300px;
 }
 
-section.segundaParte h2, p, img{
+ section.segundaParte h2, p, img{
     display: inline;
-}
+} 
 
 section.segundaParte > div.espacamento > div{
     
@@ -42,13 +40,7 @@ section.segundaParte > div.espacamento > div{
 
 
 
-
-
-
-
-
-
-section.primeiraParte > p.story{
+/* section.primeiraParte > p.story{
     text-align: justify;
     margin-left: 780px;
     font-size: 11px;

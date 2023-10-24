@@ -40,7 +40,7 @@ section.primeiraParte{
     background-image: radial-gradient(circle, var(--gradiente1-3),var(--gradiente1-2), var(--gradiente1-1));
     width: 100vw;
     min-height: 100vh;
-    text-align: center;
+    text-align: start;
     height: 540px;
     color: white;
     display: grid;
@@ -51,42 +51,54 @@ section.primeiraParte > div {
     width: 90vw;
     display: block;
     margin: auto;
-    border: 2px solid black;
+
 }
 
 section.primeiraParte > div > p.quemSou {
-    display: inline-block;
+    display: block;
     color: var(--quemsou);
+    text-align: start;
+    font-size: 12px;
 }
 
 section.primeiraParte > div > div.container {
     display: flex;
-    border: solid 2px black;
+    
 }
 
 section.primeiraParte > div > div.container > h1.titulo1{
     display: inline-block;
-    font-size: 50px;
+    font-size: 60px;
 }
 
 
 section.primeiraParte > div > div > div.icones{
+border: 2px solid black;
 display: inline-block;
 margin: auto;
 }
 
+section.primeiraParte > div > div > div.icones > a {
+    padding: 12px 0.1px 0px 0.5px;
+}
 
 section.primeiraParte > div > div > div.icones > a > i{
     display: inline-block;
     font-size: 25px;
     color: var(--coricones);
-    margin-right: 5px
+    margin-right: 5px;
 }
 
 section.primeiraParte > div > div > div.icones > a > img{
     display: inline-block;
-    width:  29px;
-    height: 28px;
+    width:  26px;
+    height: 24px
+}
+
+section.primeiraParte > div > div > div.icones > a > img{
+    display: inline-block;
+    width:  26px;
+    height: 24px;
 }
 
 section.primeiraParte > div > p.story, section.primeiraParte > div > span > p.story{
@@ -96,4 +108,13 @@ section.primeiraParte > div > p.story, section.primeiraParte > div > span > p.st
     font-family: sans-serif;
     letter-spacing: 1px;
     text-indent: 50px;
+}
+
+section.primeiraParte > div > h1.titulo2 > strong{
+    display: inline-block;
+    font-size: 60px;
+}
+
+section.primeiraParte > p.story {
+    text-align: start;
 }
