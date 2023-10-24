@@ -1,58 +1,8 @@
-@charset "UTF-8";
-@font-face{
-    font-family: 'fonteTitulo';
-        src: url(../font/infoma-heavy.ttf) format('truetype');
-        font-weight: bolder;
-        font-style: normal;
-}
-
-:root{
-    --gradiente1-1: #2B282F;
-    --gradiente1-2: #4E435C;
-    --gradiente1-3: #4E435C;
-    --quemsou: #9284A5;
-    --coricones: #F2E8B3;
-    --gradiente2-1: #CFBBE6;
-    --gradiente2-2: #DACADA;
-    --gradiente2-3: #E0CFD7;
-
-    --titulo: 'fonteTitulo', sans-serif;
-}
-
-*{
-    width: 98vw;
-    font-family: var(--titulo);
-}
-
-body,html{
-    background-color: black;
-}
 
 
-main{
-    
-    
-}
 
-i{
-    display: inline-block;
-    font-size: 41px;
-    color: var(--coricones);
-    font-weight: 30px;
-    width:  40px;
-    height: 40px;
-    margin: 30px 10px;
-}
 
-section.primeiraParte{
-    background-image: radial-gradient(circle, var(--gradiente1-3),var(--gradiente1-2), var(--gradiente1-1));
-    width: 98.7vw;
-    height: 600px;
-    text-align: center;
-    /*width: 98vw;*/
-    height: 540px;
-    color: white;
-}
+
 
 
 section.primeiraParte > p.quemSou{
@@ -96,20 +46,21 @@ section.segundaParte{
 }
 
 section.segundaParte > div.espacamento{
-    display: flex;
-    justify-content: row;
+    display: block;
+    justify-content: column;
     text-align: center;
     margin: auto;
     
 }
 
 section.segundaParte > div{
-    display: inline-block;
+    display: block;
     padding: 10px;
 }
 
 
 section.segundaParte > div.espacamento > div > img{
+    display: block;
     width: 300px;
     height: 300px;
 }
