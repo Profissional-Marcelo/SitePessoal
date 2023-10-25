@@ -1,37 +1,16 @@
-section.segundaParte{
-    background-image: linear-gradient(to bottom, var(--gradiente2-1), var(--gradiente2-2), var(--gradiente2-3));
-    width: 98.7vw;
-    height: 600px;
-
-}
-
-section.segundaParte > div.espacamento{
-    display: block;
-    justify-content: column;
-    text-align: center;
-    margin: auto;
-    
-}
-
-section.segundaParte > div{
-    display: block;
-    padding: 10px;
-}
 
 
-section.segundaParte > div.espacamento > div > img{
-    display: block;
-    width: 300px;
-    height: 300px;
-}
 
- section.segundaParte h2, p, img{
-    display: inline;
-} 
+
+
+
+
+
+ /* 
 
 section.segundaParte > div.espacamento > div{
     
-}
+} */
 
 
 

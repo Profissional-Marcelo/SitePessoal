@@ -15,7 +15,7 @@
     --gradiente2-1: #CFBBE6;
     --gradiente2-2: #DACADA;
     --gradiente2-3: #E0CFD7;
-
+    --titulo-projeto: #9A888B;
     --titulo: 'fonteTitulo', sans-serif;
 }
 
@@ -73,7 +73,6 @@ section.primeiraParte > div > div.container > h1.titulo1{
 
 
 section.primeiraParte > div > div > div.icones{
-border: 2px solid black;
 display: inline-block;
 margin: auto;
 }
@@ -83,6 +82,7 @@ section.primeiraParte > div > div > div.icones > a {
 }
 
 section.primeiraParte > div > div > div.icones > a > i{
+    padding-bottom: 5px;
     display: inline-block;
     font-size: 25px;
     color: var(--coricones);
@@ -91,15 +91,10 @@ section.primeiraParte > div > div > div.icones > a > i{
 
 section.primeiraParte > div > div > div.icones > a > img{
     display: inline-block;
-    width:  26px;
-    height: 24px
+    width:  25px;
+    height: 23px
 }
 
-section.primeiraParte > div > div > div.icones > a > img{
-    display: inline-block;
-    width:  26px;
-    height: 24px;
-}
 
 section.primeiraParte > div > p.story, section.primeiraParte > div > span > p.story{
     text-align: justify;
@@ -118,3 +113,38 @@ section.primeiraParte > div > h1.titulo2 > strong{
 section.primeiraParte > p.story {
     text-align: start;
 }
+
+section.segundaParte{
+    background-image: linear-gradient(to bottom, var(--gradiente2-1), var(--gradiente2-2), var(--gradiente2-3));
+    width: 100vw;
+    min-height: 100vh;
+}
+
+section.segundaParte > div.espacamento{
+    display: block;
+    justify-content: column;
+    text-align: center;
+    margin: auto;
+   
+}
+
+section.segundaParte > div.espacamento > div.projetos{
+    padding: 10px;
+    border: 2px solid black;
+}
+
+section.segundaParte > div.espacamento > div > img{
+    display: block;
+    margin: auto;
+    width: 250px;
+    height: 250px;
+}
+
+section.segundaParte > div.espacamento > div.projetos > p {
+    color: var(--titulo-projeto);
+    font-size: 11px;
+}
+
+section.segundaParte > h2, p, img{
+    display: inline;
+} 
