@@ -47,33 +47,43 @@
                 <br>
                 <h2>Aplicativo bancario desenvolvido em react e node.js</h2>
             </div>
-            <div>
+            <div class="projetos">
                 <img src="../../Assets/img/tablet.png" alt="projeto">
                 <br>
-                <p>Cliente Real</p>
+                <p>CLIENTE REAL</p>
                 <br>
                 <h2>Site de aluguel de carro</h2>
             </div>
         </div>
         <div class="espacamento">
-            <div>
+            <div class="projetos">
                 <img src="../../Assets/img/tablet.png" alt="projeto">
                 <br>
-                <p>Estudo de React</p>
+                <p>ESTUDO DE REACT</p>
                 <br>
                 <h2>Aplicativo bancario desenvolvido em react e node.js</h2>
             </div>
 
-            <div>
+            <div class="projetos">
                 <img src="../../Assets/img/tablet.png" alt="projeto">
                 <br>
-                <p>Estudo de React</p>
+                <p>ESTUDO DE REACT</p>
                 <br>
                 <h2>Aplicativo bancario desenvolvido em react e node.js</h2>
             </div>
         </div>
         </section>  
-    
+        <section class="terceiraParte">
+            <h2>Fale comigo: 📞</h2>
+            <form action="faleComigo.php">
+                <div>
+                    <label for="iemail">E-mail</label>
+                    <input type="text" nome="email" id="iemail" required placeholder="Seu e-mail">
+                    <label for="icomment">Comentário</label>
+                    <input type="comment" nome="comment" id="icomment" required maxLenght="500" size="20" placeholder="escreva sua ideia ou sujestão">
+                </div>
+            </form>
+        </section>
     <script src="../../Assets/js/jquery.js"></script>
     <script src="../../Assets/js/script.js"></script>
 </body>
