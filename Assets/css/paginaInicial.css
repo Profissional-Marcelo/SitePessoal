@@ -164,6 +164,15 @@ section.terceiraParte {
 
 section.terceiraParte > h2{
     font-family: Arial, Helvetica, sans-serif;
-   color: var(--coricones);
+   color: white;
    text-align: center;
+}
+
+section.terceiraParte > form > div  {
+    text-align: center;
+}
+
+section.terceiraParte > form > div > label {
+    color: white;
+    font-size: 500px;
 }
