@@ -33,7 +33,7 @@
             </div>
             <h1 class="titulo2"><strong>DEVLOPER</strong></h1>
 
-            <p class="story">TENHO 20 ANOS SOU DESENVOLVEDOR FRONTEND COM 5 MESES DE EXPERIENCIA TRABALHANDO COMO FREELANCER</p>
+            <p class="story">TENHO 20 ANOS, SOU DESENVOLVEDOR FRONTEND COM 5 MESES DE EXPERIENCIA TRABALHANDO COMO FREELANCER</p>
         </div>
         
         </section>
@@ -42,46 +42,51 @@
             <div class="espacamento">
             <div class="projetos">
                 <img src="../../Assets/img/tablet.png" alt="projeto">
-                <br>
+
                 <p>ESTUDO DE REACT</p>
-                <br>
+
                 <h2>Aplicativo bancario desenvolvido em react e node.js</h2>
             </div>
             <div class="projetos">
                 <img src="../../Assets/img/tablet.png" alt="projeto">
-                <br>
+
                 <p>CLIENTE REAL</p>
-                <br>
+
                 <h2>Site de aluguel de carro</h2>
             </div>
         </div>
         <div class="espacamento">
             <div class="projetos">
                 <img src="../../Assets/img/tablet.png" alt="projeto">
-                <br>
+
                 <p>ESTUDO DE REACT</p>
-                <br>
+
                 <h2>Aplicativo bancario desenvolvido em react e node.js</h2>
             </div>
 
             <div class="projetos">
                 <img src="../../Assets/img/tablet.png" alt="projeto">
-                <br>
+
                 <p>ESTUDO DE REACT</p>
-                <br>
+
                 <h2>Aplicativo bancario desenvolvido em react e node.js</h2>
             </div>
         </div>
         </section>  
         <section class="terceiraParte">
             <h2>Fale comigo: 📞</h2>
-            <form action="faleComigo.php">
-                <div>
-                    <label for="iemail">E-mail</label>
-                    <input type="text" nome="email" id="iemail" required placeholder="Seu e-mail">
-                    <label for="icomment">Comentário</label>
-                    <input type="comment" nome="comment" id="icomment" required maxLenght="500" size="20" placeholder="escreva sua ideia ou sujestão">
+            <form action="faleComigo.php" method="post" id="faleComigo">
+                <div class="form">
+                    <div class="linhaEmail">
+                        <label for="iemail">E-mail:</label>
+                        <input type="text" nome="email" minlength="8" maxlength="100" id="iemail" size="24" required placeholder="Seu e-mail" autocomplete="email">
+                    </div>
+                    <div class="linhaComentario">
+                        <label for="icomment">Comentário:</label>
+                        <textarea rows="10" cols="27" maxlength="500" required placeholder="Deixe sua idéia ou sugestão!" id="icomment" ></textarea>
+                    </div>
                 </div>
+                <button id="submitButton">Enviar</button>
             </form>
         </section>
     <script src="../../Assets/js/jquery.js"></script>

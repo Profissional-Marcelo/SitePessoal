@@ -1,4 +1,107 @@
+@charset "UTF-8";
 
+@media screen and (min-width: 768px) and (max-width: 992px) {/*TABLET*/
+    section.primeiraParte > div > div.container > h1.titulo1, section.primeiraParte > div > h1.titulo2 > strong {
+        font-size: 100px;
+    }
+
+    section.primeiraParte > div {
+        width: 70vw;
+    }
+
+    section.primeiraParte > div > p.story {
+        font-size: 15px;
+        text-align: justify;
+    }
+
+    section.primeiraParte > div > p.quemSou {
+        font-size: 17px;
+    }
+
+    section.primeiraParte > div > div > div.icones > a > i{
+        font-size: 50px;
+    }
+    
+    section.primeiraParte > div > div > div.icones > a > img{
+        width:  51px;
+        height: 48px
+    }
+
+
+    section.segundaParte > div.espacamento {
+        display: flex;
+        height: 50vh;
+        }
+
+    section.segundaParte > div.espacamento > div {
+        width: 100vw;
+    }
+    
+    section.segundaParte > div.espacamento > div.projetos > img{
+        width: 200px;
+        height: 250px;
+    }
+
+    section.segundaParte > div.espacamento > div.projetos > p{
+        font-size: 15px;
+    }
+
+    section.segundaParte > div.espacamento > div.projetos > h2 {
+        margin-top: 15px;
+        font-size: 25px;
+    }
+
+    
+    section.terceiraParte > h2{
+       font-size: 50px;
+    }
+    
+    
+    section.terceiraParte > form > div > div.linhaEmail > label  {
+            margin-right: 70px;
+            display: inline-block;
+            font-size: 30px;
+            }   
+ 
+    section.terceiraParte > form > div > div.linhaEmail > input  {
+                font-size: 20px;
+               width: 250px;
+            }   
+    
+    section.terceiraParte > form > div > div.linhaComentario > label {
+        display: inline-block;
+        padding-bottom: 80px;
+        font-size: 30px;
+    } 
+    
+    section.terceiraParte > form > div > div.linhaComentario > textarea {
+        width: 270px;
+        font-size: 20px;
+        margin-bottom: -80px;
+        display: inline-block;
+      
+    } 
+    
+    section.terceiraParte > form > button {
+        font-size: 30px;
+        color: white;
+        background-color: rgb(138, 93, 175);
+        border-radius: 50px;
+        width: 300px;
+        padding: 30px;
+        margin: auto;
+        display: block;
+        border: 1px solid black;
+        box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.6);
+    }
+
+}
+
+
+
+@media screen and (min-width: 992px) {/*PC*/
+
+}
 
 
 

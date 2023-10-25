@@ -1,4 +1,4 @@
-@charset "UTF-8";
+ @charset "UTF-8";
 @font-face{
     font-family: 'fonteTitulo';
         src: url(../font/infoma-heavy.ttf) format('truetype');
@@ -136,6 +136,7 @@ section.segundaParte > div.espacamento > div.projetos{
 }
 
 section.segundaParte > div.espacamento > div > img{
+    padding: 20px;
     display: block;
     margin: auto;
     width: 150px;
@@ -160,19 +161,60 @@ section.terceiraParte {
     background-image: radial-gradient(circle, var(--gradiente3-3),var(--gradiente3-2), var(--gradiente3-1));
     width: 100vw;
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 section.terceiraParte > h2{
     font-family: Arial, Helvetica, sans-serif;
    color: white;
    text-align: center;
+   margin-bottom: 60px;
 }
 
+
 section.terceiraParte > form > div  {
+    color: white;
     text-align: center;
 }
 
-section.terceiraParte > form > div > label {
+section.terceiraParte > form > div > div.linhaEmail > label  {
+    margin-bottom: 10px;
+    display: block;
+    margin-right: 35px;
+}
+
+section.terceiraParte > form > div > div.linhaEmail > input  {
+    border-radius: 10px;
+    padding: 10px;
+}
+
+section.terceiraParte > form > div > div.linhaComentario  { 
+    margin-bottom: 30px;
+  margin-top: 20px;    
+} 
+
+section.terceiraParte > form > div > div.linhaComentario > label {
+    margin-bottom: 10px;
+    display: block;
+    
+} 
+
+section.terceiraParte > form > div > div.linhaComentario > textarea {
+    display: inline-block;
+  
+} 
+
+section.terceiraParte > form > button {
     color: white;
-    font-size: 500px;
+    background-color: rgb(138, 93, 175);
+    border-radius: 50px;
+    width: 250px;
+    padding: 25px;
+    margin: auto;
+    display: block;
+    border: 1px solid black;
+    box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.6);
 }
