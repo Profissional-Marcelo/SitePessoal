@@ -38,7 +38,7 @@
         
         </section>
 
-         <section class="segundaParte">
+         <!-- <section class="segundaParte">
             <div class="espacamento">
             <div>
                 <img src="../../Assets/img/tablet.png" alt="projeto">
@@ -72,7 +72,7 @@
                 <h2>Aplicativo bancario desenvolvido em react e node.js</h2>
             </div>
         </div>
-        </section> 
+        </section>  -->
     
     <script src="../../Assets/js/jquery.js"></script>
     <script src="../../Assets/js/script.js"></script>
