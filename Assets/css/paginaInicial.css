@@ -1,4 +1,14 @@
- @charset "UTF-8";
+
+
+
+
+@charset "UTF-8";
+
+@font-face {
+    font-family: Library;
+    src: url(../font/Library\ 3\ am.otf)
+  }
+
 @font-face{
     font-family: 'fonteTitulo';
         src: url(../font/infoma-heavy.ttf) format('truetype');
@@ -33,15 +43,14 @@ ul{
     list-style: none;
 }
 
-
-body, html{
-    width: 98vw;
+body {
     background-color: black;
+    width: 100%;
 }
 
 section.primeiraParte{
     background-image: radial-gradient(circle, var(--gradiente1-3),var(--gradiente1-2), var(--gradiente1-1));
-    width: 100vw;
+    width: 100%;
     min-height: 100vh;
     text-align: start;
     height: 540px;
@@ -71,7 +80,7 @@ section.primeiraParte > div > div.container {
 
 section.primeiraParte > div > div.container > h1.titulo1{
     display: inline-block;
-    font-size: 60px;
+    font-size: 55px;
 }
 
 
@@ -110,7 +119,7 @@ section.primeiraParte > div > p.story, section.primeiraParte > div > span > p.st
 
 section.primeiraParte > div > h1.titulo2 > strong{
     display: inline-block;
-    font-size: 60px;
+    font-size: 55px;
 }
 
 section.primeiraParte > p.story {
@@ -119,7 +128,7 @@ section.primeiraParte > p.story {
 
 section.segundaParte{
     background-image: linear-gradient(to bottom, var(--gradiente2-1), var(--gradiente2-2), var(--gradiente2-3));
-    width: 100vw;
+    width: 100%;
     min-height: 100vh;
 }
 
@@ -155,11 +164,13 @@ section.segundaParte > div.espacamento > div.projetos > h2 {
 
 section.segundaParte > h2, p, img{
     display: inline;
-} 
+}
 
 section.terceiraParte {
-    background-image: radial-gradient(circle, var(--gradiente3-3),var(--gradiente3-2), var(--gradiente3-1));
-    width: 100vw;
+    background-image: url('../img/background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -168,53 +179,84 @@ section.terceiraParte {
 }
 
 section.terceiraParte > h2{
-    font-family: Arial, Helvetica, sans-serif;
-   color: white;
+    font-family: library;
+   color: #c8bcff;
+   text-shadow: 0px 0px 10px #c8bcffcc, 0px 0px 3px #c8bcff;
    text-align: center;
-   margin-bottom: 60px;
+   margin-bottom: 40px;
 }
 
 
-section.terceiraParte > form > div  {
+section.terceiraParte > form {
     color: white;
     text-align: center;
-}
-
-section.terceiraParte > form > div > div.linhaEmail > label  {
-    margin-bottom: 10px;
-    display: block;
-    margin-right: 35px;
-}
-
-section.terceiraParte > form > div > div.linhaEmail > input  {
-    border-radius: 10px;
-    padding: 10px;
-}
-
-section.terceiraParte > form > div > div.linhaComentario  { 
-    margin-bottom: 30px;
-  margin-top: 20px;    
-} 
-
-section.terceiraParte > form > div > div.linhaComentario > label {
-    margin-bottom: 10px;
-    display: block;
     
+    
+}
+
+section.terceiraParte > form > div.border1 {
+    margin: 10px;
+    /* padding-top: 1px; */
+    width: calc(80vw + 6px);
+    height: 56px;
+    background:  linear-gradient(to right, #004AAD, #CB6CE6);
+    border-radius: 5px;
+}
+
+section.terceiraParte > form > div > input {
+    font-size: 15px;
+    border-radius: 5px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 50px;
+    margin: 1px;
+     width: calc(80vw - 40px); 
+     padding-left: 40px;
+}
+
+section.terceiraParte > form > div > input::placeholder {
+    font-size: 20px;
+
+}
+
+section.terceiraParte > form > div > div.icon {
+    position: relative;
+    bottom: 41px;
+}
+
+ section.terceiraParte > form > div > div.icon > .material-symbols-outlined {
+    position: absolute;
+    color: rgba(123, 122, 122, 0.547);
+    left: 10px;
+}
+
+section.terceiraParte > form > div >  textarea {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: block;
+     width: 80vw; 
+    margin: auto;
+    border-radius: 5px;
 } 
 
-section.terceiraParte > form > div > div.linhaComentario > textarea {
-    display: inline-block;
-  
-} 
+section.terceiraParte > form > div.border2 {
+    margin: 10px;
+     padding-top: 2px;
+    width: calc(80vw + 6px);
+    height: 174px;
+    background:  linear-gradient(to right, #004AAD, #CB6CE6);
+    border-radius: 5px;
+}
+
+section.terceiraParte > form > div >  textarea::placeholder{
+    padding-left: 5px;
+    font-size: 20px;
+}
 
 section.terceiraParte > form > button {
-    color: white;
-    background-color: rgb(138, 93, 175);
-    border-radius: 50px;
-    width: 250px;
-    padding: 25px;
-    margin: auto;
-    display: block;
-    border: 1px solid black;
-    box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.6);
+    background: none;
+    border: none;
+}
+
+section.terceiraParte > form > button > img {
+    margin-top: 20px;
+    width: 60vw;
 }

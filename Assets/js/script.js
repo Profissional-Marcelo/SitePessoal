@@ -1,7 +1,10 @@
+
+
 $('#submitButton').click(function(e){
     e.preventDefault();
     let email = $('#iemail').val();
     let comentario = $('#iccoment').val();
+
     
     $.ajax({
         type: 'Post',
