@@ -36,7 +36,11 @@
             </div>
             <h1 class="titulo2"><strong translate="no">DEVELOPER</strong></h1>
 
-            <p class="story">TENHO 20 ANOS, SOU DESENVOLVEDOR FRONTEND COM 5 MESES DE EXPERIENCIA TRABALHANDO COMO FREELANCER</p>
+        
+                <div class="paragrafo">
+                    <p class="story">TENHO 20 ANOS, SOU DESENVOLVEDOR FRONTEND COM 5 MESES DE EXPERIENCIA TRABALHANDO COMO FREELANCER</p>
+                </div>
+            
         </div>
 
     </section> 
@@ -48,7 +52,7 @@
 
                 <p>LOJA 3M</p>
 
-                <h2>Aplicativo bancario desenvolvido em react e node.js</h2>
+                <h2>Loja com aplicativo e site administrativo</h2>
             </div>
             <div class="projetos">
                 <img src="../../Assets/img/tablet.png" alt="projeto">
@@ -86,7 +90,7 @@
                     </span>
             </div></div>
 
-            <div class="border2"><textarea rows="10" maxlength="500" required placeholder="Deixe sua idéia ou sugestão" id="icomment"></textarea></div>
+            <div class="border2"><textarea rows="10" maxlength="500" required placeholder="Deixe sua ideia ou sugestão" id="icomment"></textarea></div>
 
             <button type="" id="submitButton"><img src="../../Assets/img/botaoEnviar.png" alt="botao de envio"></button>
         </form>

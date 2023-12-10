@@ -6,23 +6,32 @@
     }
 
     section.primeiraParte > div {
-        width: 70vw;
+        margin: auto;
+        display: block;
+        width: calc(90vw - 55px);
+        transform: translateX(55px);
     }
 
-    section.primeiraParte > div > p.story {
-        font-size: 15px;
-        text-align: justify;
+    section.primeiraParte > div > div.paragrafo {
+       width: 75%;
+    }
+
+    section.primeiraParte > div > div.paragrafo > p.story {
+        font-size: 20px;
+        
     }
 
     section.primeiraParte > div > p.quemSou {
-        font-size: 17px;
+        font-size: 25px;
     }
 
     section.primeiraParte > div > div > div.icones > a > i{
+        transform: translateX(-60px);
         font-size: 50px;
     }
     
     section.primeiraParte > div > div > div.icones > a > img{
+        transform: translateX(-60px);
         width:  51px;
         height: 48px
     }
@@ -34,7 +43,7 @@
         }
 
     section.segundaParte > div.espacamento > div {
-        width: 100vw;
+        width: 100%;
     }
     
     section.segundaParte > div.espacamento > div.projetos > img{
@@ -43,7 +52,7 @@
     }
 
     section.segundaParte > div.espacamento > div.projetos > p{
-        font-size: 15px;
+        font-size: 20px;
     }
 
     section.segundaParte > div.espacamento > div.projetos > h2 {
@@ -53,47 +62,65 @@
 
     
     section.terceiraParte > h2{
-       font-size: 50px;
+       font-size: 60px;
     }
     
-    
-    section.terceiraParte > form > div > div.linhaEmail > label  {
-            margin-right: 70px;
-            display: inline-block;
-            font-size: 30px;
-            }   
  
-    section.terceiraParte > form > div > div.linhaEmail > input  {
-                font-size: 20px;
-               width: 250px;
-            }   
+    section.terceiraParte > form > div.border1 {
+        margin: 20px 10px 20px 10px;
+        width: calc(80vw + 6px);
+        height: 65px;
+    }
     
-    section.terceiraParte > form > div > div.linhaComentario > label {
-        display: inline-block;
-        padding-bottom: 80px;
+    section.terceiraParte > form > div > input {
+        font-size: 25px;
+        height: 60px; 
+    }
+    
+    section.terceiraParte > form > div > input::placeholder {
         font-size: 30px;
+    }
+    
+    section.terceiraParte > form > div > div.icon {
+        bottom: 47px;
+    }
+    
+     section.terceiraParte > form > div > div.icon > .material-symbols-outlined {
+        font-size: 30px;
+     }
+    
+    section.terceiraParte > form > div >  textarea {
+         width: 80vw; 
+        margin: auto;
+        border-radius: 5px;
+        font-size: 25px
     } 
     
-    section.terceiraParte > form > div > div.linhaComentario > textarea {
-        width: 270px;
-        font-size: 20px;
-        margin-bottom: -100px;
-        display: inline-block;
-      
-    } 
+    section.terceiraParte > form > div.border2 {
+        margin: 10px;
+         padding-top: 2px;
+        width: calc(80vw + 6px);
+        height: 340px;
+        background:  linear-gradient(to right, #004AAD, #CB6CE6);
+        border-radius: 5px;
+    }
+    
+    section.terceiraParte > form > div >  textarea::placeholder{
+        padding-left: 5px;
+        font-size: 30px;
+    }
     
     section.terceiraParte > form > button {
-        font-size: 30px;
-        color: white;
-        background-color: rgb(138, 93, 175);
-        border-radius: 50px;
-        width: 300px;
-        padding: 30px;
-        margin: auto;
-        display: block;
-        border: 1px solid black;
-        box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.6);
+        background: none;
+        border: none;
     }
+    
+    section.terceiraParte > form > button > img {
+        margin-top: 20px;
+        width: 100%;
+    }
+    
+
 
 }
 
@@ -201,17 +228,6 @@
       
     } 
     
-    section.terceiraParte > form > button {
-        font-size: 30px;
-        color: white;
-        background-color: rgb(138, 93, 175);
-        border-radius: 50px;
-        width: 300px;
-        padding: 30px;
-        margin: auto;
-        display: block;
-        border: 1px solid black;
-        box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.6);
-    }
+
 }
 

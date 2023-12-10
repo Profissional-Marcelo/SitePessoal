@@ -108,7 +108,7 @@ section.primeiraParte > div > div > div.icones > a > img{
 }
 
 
-section.primeiraParte > div > p.story, section.primeiraParte > div > span > p.story{
+section.primeiraParte > div > div.paragrafo > p.story, section.primeiraParte > div > span > div.paragrafo > p.story{
     text-align: justify;
     font-size: 11px;
     font-weight: normal;
@@ -122,7 +122,7 @@ section.primeiraParte > div > h1.titulo2 > strong{
     font-size: 55px;
 }
 
-section.primeiraParte > p.story {
+section.primeiraParte > div > div.paragrafo > p.story {
     text-align: start;
 }
 
@@ -180,6 +180,7 @@ section.terceiraParte {
 
 section.terceiraParte > h2{
     font-family: library;
+    font-size: 30px;
    color: #c8bcff;
    text-shadow: 0px 0px 10px #c8bcffcc, 0px 0px 3px #c8bcff;
    text-align: center;
@@ -241,7 +242,7 @@ section.terceiraParte > form > div.border2 {
     margin: 10px;
      padding-top: 2px;
     width: calc(80vw + 6px);
-    height: 174px;
+    height: 180px;
     background:  linear-gradient(to right, #004AAD, #CB6CE6);
     border-radius: 5px;
 }
