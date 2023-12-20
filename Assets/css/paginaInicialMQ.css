@@ -132,53 +132,53 @@
   
 
     section.primeiraParte > div > div.container > h1.titulo1, section.primeiraParte > div > h1.titulo2 > strong {
-        display: inline-block;
-        font-size: 120px;
+        font-size: 100px;
     }
 
     section.primeiraParte > div {
-        width: 55vw;
+        margin: auto;
+        display: block;
+        width: 700px;
+        transform: translateX(55px);
     }
 
-    section.primeiraParte > div > div.container{
-        display: inline-block;
-        text-align: start;
+    section.primeiraParte > div > div.paragrafo {
+       width: 75%;
     }
 
-    section.primeiraParte > div > p.story {
-        letter-spacing: 0.1px;
-       display: inline-block;
-       text-indent: 20px;
-        font-size: 18px;
+    section.primeiraParte > div > div.paragrafo > p.story {
+        font-size: 20px;
+        
     }
 
     section.primeiraParte > div > p.quemSou {
-        font-size: 20px;
-    }
-
-    section.primeiraParte > div > div > div.icones {
-        display: inline-block;
-      
+        font-size: 25px;
     }
 
     section.primeiraParte > div > div > div.icones > a > i{
-        display: inline-block;
-        padding-bottom: 20px;
+        transform: translateX(-60px);
         font-size: 50px;
     }
     
     section.primeiraParte > div > div > div.icones > a > img{
+        transform: translateX(-60px);
         width:  51px;
         height: 48px
     }
 
+    section.segundaParte {
+        height: 100vh;
+    }
+
     section.segundaParte > div.espacamento {
         display: flex;
-        height: 70vh;
+        justify-content: center;
+        align-items: center;
+        height: 450px;
         }
 
     section.segundaParte > div.espacamento > div {
-        width: 50vw;
+        width: 30vw;
     }
     
     section.segundaParte > div.espacamento > div.projetos > img{
@@ -200,33 +200,72 @@
        font-size: 50px;
     }
     
-    
+    section.terceiraParte > form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
     section.terceiraParte > form > div > div.linhaEmail > label  {
             margin-right: 90px;
             display: inline-block;
             font-size: 30px;
             }   
- 
-    section.terceiraParte > form > div > div.linhaEmail > input  {
-                font-size: 20px;
-               width: 380px;
-            }   
+
+            section.terceiraParte > form > div.border1 {
+                margin: 20px 10px 20px 10px;
+                
+                width: 648px;
+                height: 58px;
+            }
+            
+            section.terceiraParte > form > div > input {
+                font-size: 25px;
+                margin-top: 2px;
+                width: 600px; 
+            }
     
+
+            section.terceiraParte > form > div > input::placeholder {
+                font-size: 25px;
+            }
+
+            section.terceiraParte > form > div > div.icon { 
+                bottom: 38px;
+            }
+
     section.terceiraParte > form > div > div.linhaComentario > label {
         display: inline-block;
         padding-bottom: 80px;
         font-size: 30px;
         margin-right: 20px;
     } 
-    
-    section.terceiraParte > form > div > div.linhaComentario > textarea {
+    section.terceiraParte > form > div.border2 {
+        width: 656px;
+        height: 334px;
         border-radius: 10px;
-        width: 400px;
-        font-size: 20px;
-        margin-bottom: -100px;
+        margin-bottom: 10px;
+    }
+
+    section.terceiraParte > form > div >  textarea::placeholder{
+        font-size: 25px;
+    }
+
+    section.terceiraParte > form > div >  textarea {
+        font-size: 25px;
+        border-radius: 10px;
+        width: 650px;
+        
         display: inline-block;
       
     } 
+
+    section.terceiraParte > form > button > img {
+        margin-top: 20px;
+        width: 250px;
+    }
+    
     
 
 }

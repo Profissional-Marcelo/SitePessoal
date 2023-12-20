@@ -79,6 +79,12 @@
             </div>
         </div>
     </section> 
+
+    <section class="quartaParte">
+        <h2>Certificados<span class="colorPonto">.</span></h2>
+    </section>
+
+
      <section class="terceiraParte">
         <h2>Fale comigo</h2>
         <form action="faleComigo.php" method="post" id="faleComigo">
