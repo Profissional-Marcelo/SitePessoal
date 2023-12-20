@@ -82,6 +82,87 @@
 
     <section class="quartaParte">
         <h2>Certificados<span class="colorPonto">.</span></h2>
+        <img src="../../Assets/img/fadergs.png" alt="">
+        <div class="certificados">
+            <div class="linha1">
+                <div class="bordaCertificado">
+                    <div class="certificado">
+                        <h2>Tecnologo</h2>
+                        <p>Análise e desenvolvimento de sistemas</p>
+                        <h2>FADERGS</h2>
+                        <h2>2022 - 2024</h2>
+                    </div>
+                </div>
+                <div class="bordaCertificado">
+                    <div class="certificado">
+                        <h2>Tecnologo</h2>
+                        <p>Análise e desenvolvimento de sistemas</p>
+                        <h2>FADERGS</h2>
+                        <h2>2022 - 2024</h2>
+                    </div>
+                </div>
+                <div class="bordaCertificado">
+                    <div class="certificado">
+                        <h2>Tecnologo</h2>
+                        <p>Análise e desenvolvimento de sistemas</p>
+                        <h2>FADERGS</h2>
+                        <h2>2022 - 2024</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="linha2">
+            <div class="bordaCertificado">
+                    <div class="certificado">
+                        <h2>Tecnologo</h2>
+                        <p>Análise e desenvolvimento de sistemas</p>
+                        <h2>FADERGS</h2>
+                        <h2>2022 - 2024</h2>
+                    </div>
+                </div>
+                <div class="bordaCertificado">
+                    <div class="certificado">
+                        <h2>Tecnologo</h2>
+                        <p>Análise e desenvolvimento de sistemas</p>
+                        <h2>FADERGS</h2>
+                        <h2>2022 - 2024</h2>
+                    </div>
+                </div>
+                <div class="bordaCertificado">
+                    <div class="certificado">
+                        <h2>Tecnologo</h2>
+                        <p>Análise e desenvolvimento de sistemas</p>
+                        <h2>FADERGS</h2>
+                        <h2>2022 - 2024</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="linha3">
+            <div class="bordaCertificado">
+                    <div class="certificado">
+                        <h2>Tecnologo</h2>
+                        <p>Análise e desenvolvimento de sistemas</p>
+                        <h2>FADERGS</h2>
+                        <h2>2022 - 2024</h2>
+                    </div>
+                </div>
+                <div class="bordaCertificado">
+                    <div class="certificado">
+                        <h2>Tecnologo</h2>
+                        <p>Análise e desenvolvimento de sistemas</p>
+                        <h2>FADERGS</h2>
+                        <h2>2022 - 2024</h2>
+                    </div>
+                </div>
+                <div class="bordaCertificado">
+                    <div class="certificado">
+                        <h2>Tecnologo</h2>
+                        <p>Análise e desenvolvimento de sistemas</p>
+                        <h2>FADERGS</h2>
+                        <h2>2022 - 2024</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 
 
