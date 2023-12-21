@@ -197,9 +197,10 @@ section.terceiraParte > form {
 
 section.terceiraParte > form > div.border1 {
     margin: 10px;
+
     /* padding-top: 1px; */
     width: calc(80vw + 6px);
-    height: 40px;
+    height: 56px;
     background:  linear-gradient(to right, #004AAD, #CB6CE6);
     border-radius: 5px;
 }
