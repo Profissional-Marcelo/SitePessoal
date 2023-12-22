@@ -197,9 +197,10 @@ section.terceiraParte > form {
 
 section.terceiraParte > form > div.border1 {
     margin: 10px;
+
     /* padding-top: 1px; */
     width: calc(80vw + 6px);
-    height: 40px;
+    height: 56px;
     background:  linear-gradient(to right, #004AAD, #CB6CE6);
     border-radius: 5px;
 }
@@ -242,7 +243,7 @@ section.terceiraParte > form > div.border2 {
     margin: 10px;
      padding-top: 2px;
     width: calc(80vw + 6px);
-    height: 174px;
+    height: 155px;
     background:  linear-gradient(to right, #004AAD, #CB6CE6);
     border-radius: 5px;
 }
@@ -291,7 +292,6 @@ section.quartaParte > div {
 }
 
 section.quartaParte > div > div > div {
-    width: 95%;
     background-color: #323232;
     margin-left: 0px;
     margin: 10px;
@@ -302,6 +302,7 @@ section.quartaParte > div > div > div:hover{
 }
 
 section.quartaParte > div > div > div > div {
+    width: 99%;
     padding: 5px;
     background-color: #141414;
 }
