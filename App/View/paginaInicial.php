@@ -36,7 +36,6 @@
             </div>
             <h1 class="titulo2"><strong translate="no">DEVELOPER</strong></h1>
 
-        
                 <div class="paragrafo">
                     <p class="story">TENHO 20 ANOS, SOU DESENVOLVEDOR FRONTEND COM 5 MESES DE EXPERIENCIA TRABALHANDO COMO FREELANCER</p>
                 </div>
@@ -57,9 +56,9 @@
             <div class="projetos">
                 <img src="../../Assets/img/tablet.png" alt="projeto">
 
-                <p>CLIENTE REAL</p>
+                <p>Pousada Country</p>
 
-                <h2>Site de aluguel de carro</h2>
+                <h2>Site de uma pousada</h2>
             </div>
         </div>
         <div class="espacamento">
