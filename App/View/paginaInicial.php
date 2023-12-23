@@ -65,15 +65,15 @@
             <div class="projetos">
                 <a href="">
                     <img src="../../Assets/img/tablet.png" alt="projeto">
-                    <p>LINHA EVOLUTIVA</p>
-                    <h2>Facilitador de pegar códigos de projetos que repliquei anteriormente</h2>
+                    <p>ESTUDOS</p>
+                    <h2>Site para consultar códigos de projetos que repliquei anteriormente.</h2>
                 </a>
             </div>
 
             <div class="projetos">
                 <a href="">
                     <img src="../../Assets/img/tablet.png" alt="projeto">
-                    <p>CLIENTE REAL/p>
+                    <p>CLIENTE REAL</p>
                     <h2>Site de uma pousada desenvolvido totalmente em wordpress</h2>
                 </a>
             </div>
