@@ -114,7 +114,7 @@ section.primeiraParte > div > div.paragrafo > p.story, section.primeiraParte > d
     font-weight: normal;
     font-family: sans-serif;
     letter-spacing: 1px;
-    text-indent: 50px;
+    text-indent: 0px;
 }
 
 section.primeiraParte > div > h1.titulo2 > strong{
@@ -144,27 +144,39 @@ section.segundaParte > div.espacamento > div.projetos{
     padding: 10px;
 }
 
-section.segundaParte > div.espacamento > div > img{
+section.segundaParte > div.espacamento > div > a > img{
     padding: 20px;
     display: block;
     margin: auto;
-    width: 150px;
+    width: 180px;
     height: 200px;
 }
 
-section.segundaParte > div.espacamento > div.projetos > p {
+section.segundaParte > div.espacamento > div > a > img.tablet1 {
+    transform: translateX(20px);
+}
+
+section.segundaParte > div.espacamento > div > a > img.tablet2 {
+    transform: translateX(20px);
+}
+
+section.segundaParte > div.espacamento > div.projetos > a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+section.segundaParte > div.espacamento > div.projetos > a > p {
     color: var(--titulo-projeto);
     font-size: 11px;
 }
 
-section.segundaParte > div.espacamento > div.projetos > h2 {
+section.segundaParte > div.espacamento > div.projetos > a > h2 {
+    color: black;
     font-size: 16px;
     margin-bottom: 20px;
 }
 
-section.segundaParte > h2, p, img{
-    display: inline;
-}
+
 
 section.terceiraParte {
     background-image: url('../img/background.png');
@@ -243,7 +255,7 @@ section.terceiraParte > form > div.border2 {
     margin: 10px;
      padding-top: 2px;
     width: calc(80vw + 6px);
-    height: 155px;
+    height: 174px;
     background:  linear-gradient(to right, #004AAD, #CB6CE6);
     border-radius: 5px;
 }

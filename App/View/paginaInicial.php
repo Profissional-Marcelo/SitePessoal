@@ -47,34 +47,35 @@
      <section class="segundaParte">
         <div class="espacamento">
             <div class="projetos">
-                <img src="../../Assets/img/tablet.png" alt="projeto">
-
-                <p>LOJA 3M</p>
-
-                <h2>Loja com aplicativo e site administrativo</h2>
+                <a href="https://memsolucoestecnologicas.com.br/App/View/login.php" target="_blank">
+                    <img class="tablet1" src="../../Assets/img/tablet1.png" alt="projeto">
+                    <p>LOJA 3M</p>
+                    <h2>Loja com aplicativo e site administrativo</h2>
+                </a>
             </div>
             <div class="projetos">
-                <img src="../../Assets/img/tablet.png" alt="projeto">
-
-                <p>Pousada Country</p>
-
-                <h2>Site de uma pousada</h2>
+                <a href="http://www.marcelohenrique.kinghost.net/App/View/paginaInicial.php">
+                    <img class="tablet2" src="../../Assets/img/tablet2.png" alt="projeto">
+                    <p>HOST MENTOR</p>
+                    <h2>Site auxiliar de trabalho com gamequiz</h2>
+                </a>
             </div>
         </div>
         <div class="espacamento">
             <div class="projetos">
-                <img src="../../Assets/img/tablet.png" alt="projeto">
-
-                <p>ESTUDO DE REACT</p>
-
-                <h2>Aplicativo bancario desenvolvido em react e node.js</h2>
+                <a href="">
+                    <img src="../../Assets/img/tablet.png" alt="projeto">
+                    <p>LINHA EVOLUTIVA</p>
+                    <h2>Facilitador de pegar códigos de projetos que repliquei anteriormente</h2>
+                </a>
             </div>
 
             <div class="projetos">
-                <img src="../../Assets/img/tablet.png" alt="projeto">
-
-                <p>ESTUDO DE REACT</p>
-                <h2>Aplicativo bancario desenvolvido em react e node.js</h2>
+                <a href="">
+                    <img src="../../Assets/img/tablet.png" alt="projeto">
+                    <p>CLIENTE REAL/p>
+                    <h2>Site de uma pousada desenvolvido totalmente em wordpress</h2>
+                </a>
             </div>
         </div>
     </section> 
