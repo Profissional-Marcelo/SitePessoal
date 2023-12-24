@@ -93,7 +93,8 @@
          width: 80vw; 
         margin: auto;
         border-radius: 5px;
-        font-size: 25px
+        font-size: 25px;
+        transform: translateY(1px);
     } 
     
     section.terceiraParte > form > div.border2 {
@@ -256,7 +257,7 @@
         font-size: 25px;
         border-radius: 10px;
         width: 650px;
-        
+        transform: translateY(1px);
         display: inline-block;
       
     } 
