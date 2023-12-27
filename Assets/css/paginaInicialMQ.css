@@ -46,18 +46,18 @@
         width: 100%;
     }
     
-    section.segundaParte > div.espacamento > div.projetos > img{
-        width: 200px;
-        height: 250px;
+    section.segundaParte > div.espacamento > div.projetos > a > img{
+        width: 260px;
+        height: 280px;
     }
 
-    section.segundaParte > div.espacamento > div.projetos > p{
-        font-size: 20px;
+    section.segundaParte > div.espacamento > div.projetos > a > p{
+        font-size: 15px;
     }
 
-    section.segundaParte > div.espacamento > div.projetos > h2 {
+    section.segundaParte > div.espacamento > div.projetos > a > h2 {
         margin-top: 15px;
-        font-size: 25px;
+        font-size: 20px;
     }
 
     
@@ -122,6 +122,37 @@
     }
     
 
+    section.quartaParte {
+        display: flex;
+        justify-content: start;
+        min-height: 50vh;
+    }
+
+    section.quartaParte > div {
+        margin: 40px 0px;
+    }
+    section.quartaParte > div > div.linhas{
+        display: flex;
+        flex-direction: row;
+    }
+
+    section.quartaParte > h2 {
+        font-size: 40px;
+    }
+   
+    section.quartaParte > img {
+      position: relative;
+      right: 45%;
+      transform: translateY(30px);
+    }
+
+    section.quartaParte > div > div > a > div > div > h2 {
+        font-size: 13px;
+    }
+
+    section.quartaParte > div > div > a > div > div > p {
+        font-size: 16px;
+    }
 
 }
 
@@ -168,7 +199,9 @@
     }
 
     section.segundaParte {
-        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
     }
 
     section.segundaParte > div.espacamento {
@@ -179,24 +212,27 @@
         }
 
     section.segundaParte > div.espacamento > div {
-        width: 30vw;
+        width: 40vw;
     }
     
-    section.segundaParte > div.espacamento > div.projetos > img{
-        width: 200px;
-        height: 250px;
+    section.segundaParte > div.espacamento > div.projetos > a > img{
+        width: 280px;
+        height: 300px;
     }
 
-    section.segundaParte > div.espacamento > div.projetos > p{
+    section.segundaParte > div.espacamento > div.projetos > a > p{
         font-size: 15px;
     }
 
-    section.segundaParte > div.espacamento > div.projetos > h2 {
+    section.segundaParte > div.espacamento > div.projetos > a > h2 {
         margin-top: 5px;
         font-size: 25px;
     }
 
-    
+    section.terceiraParte {
+        min-height: 50vh;
+    }
+
     section.terceiraParte > h2{
        font-size: 50px;
     }
@@ -268,5 +304,39 @@
     }
     
     
+    section.quartaParte {
+        display: flex;
+        justify-content: start;
+        min-height: 50vh;
+    }
+
+    section.quartaParte > div {
+        margin: 40px 0px;
+    }
+    section.quartaParte > div > div.linhas{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    section.quartaParte > h2 {
+        font-size: 50px;
+    }
+   
+    section.quartaParte > img {
+        width: 50px;
+      position: relative;
+      right: 45%;
+      transform: translateY(30px);
+    }
+
+    section.quartaParte > div > div > a > div > div > h2 {
+        font-size: 15px;
+    }
+
+    section.quartaParte > div > div > a > div > div > p {
+        font-size: 20px;
+    }
+
 
 }
