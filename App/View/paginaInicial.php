@@ -187,20 +187,26 @@
 
     <section class="terceiraParte">
         <h2>Fale comigo</h2>
-        <form action="faleComigo.php" method="post" id="faleComigo">
+        <form action="../../App/Controller/faleComigo.php" method="post" id="faleComigo">
 
 
-            <div class="border1"><input type="text" nome="email" minlength="8" maxlength="100" id="iemail" size="24" required placeholder="E-mail" autocomplete="email">
+            <div class="border1">
+                <input id="replyto" name="replyto" placeholder="E-mail"  required="" type="text"
+                minlength="8" maxlength="100"
+                autocomplete="email"
+                >
                 <div class="icon">
                     <span class="material-symbols-outlined">
                         mail
                     </span>
                 </div>
+                
+                
             </div>
 
-            <div class="border2"><textarea rows="10" maxlength="500" required placeholder="Deixe sua ideia ou sugestão" id="icomment"></textarea></div>
+            <div class="border2"><textarea rows="10" maxlength="500" required placeholder="Deixe sua ideia ou sugestão" id="mensagem" name="mensagem"></textarea></div>
 
-            <button type="" id="submitButton"><img src="../../Assets/img/botaoEnviar.png" alt="botao de envio"></button>
+            <button type="submit" id="submitButton"><img src="../../Assets/img/botaoEnviar.png" alt="botao de envio"></button>
         </form>
     </section>
     <script src="../../Assets/js/jquery.js"></script>
