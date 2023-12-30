@@ -39,7 +39,7 @@
 
     section.segundaParte > div.espacamento {
         display: flex;
-        height: 50vh;
+        height: 60vh;
         }
 
     section.segundaParte > div.espacamento > div {
@@ -125,7 +125,7 @@
     section.quartaParte {
         display: flex;
         justify-content: start;
-        min-height: 50vh;
+        min-height: 70vh;
     }
 
     section.quartaParte > div {
@@ -230,7 +230,7 @@
     }
 
     section.terceiraParte {
-        min-height: 50vh;
+        min-height: 70vh;
     }
 
     section.terceiraParte > h2{
@@ -307,7 +307,7 @@
     section.quartaParte {
         display: flex;
         justify-content: start;
-        min-height: 50vh;
+        min-height: 70vh;
     }
 
     section.quartaParte > div {
