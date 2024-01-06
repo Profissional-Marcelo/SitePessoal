@@ -72,8 +72,8 @@
             </div>
 
             <div class="projetos">
-                <a href="">
-                    <img src="../../Assets/img/tablet.png" alt="projeto">
+                <a href="https://pousadaguaibacountry.com.br">
+                    <img class="tablet4" src="../../Assets/img/tablet4.png" alt="projeto">
                     <p>CLIENTE REAL</p>
                     <h2>Site de uma pousada desenvolvido totalmente em wordpress</h2>
                 </a>
