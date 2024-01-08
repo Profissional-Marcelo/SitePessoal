@@ -165,13 +165,13 @@
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/certificadoComplexo.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/CertificadoSistemasDistribuidos.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
-                            <h2>Evento</h2>
-                            <p>SEE 2023 - O Complexo de Parobé</p>
+                            <h2>Curso</h2>
+                            <p>Sistemas distribuidos e mobile</p>
                             <h2>FADERGS</h2>
-                            <h2>23/05/2023</h2>
+                            <h2>DEZ/2023</h2>
                         </div>
                     </div>
                 </a>
