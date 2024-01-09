@@ -101,13 +101,13 @@
                         </div>
                     </div>
                 </a>
-                <a href="#" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/CertificadoSistemasDistribuidos.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
-                            <h2>Tecnologo</h2>
-                            <p>Análise e desenvolvimento de sistemas</p>
+                            <h2>Curso</h2>
+                            <p>Sistemas Distribuidos e Mobile</p>
                             <h2>FADERGS</h2>
-                            <h2>2022 - 2024</h2>
+                            <h2>DEZ/2023</h2>
                         </div>
                     </div>
                 </a>
@@ -133,13 +133,13 @@
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/CertificadoSegurança.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/CertificadoWeb.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
-                            <p>Sistemas computacionais e segurança</p>
+                            <p>Usabilidade, Desenvolvimento WEB, Mobile E Jogos</p>
                             <h2>FADERGS</h2>
-                            <h2>DEZ/2022</h2>
+                            <h2>DEZ/2023</h2>
                         </div>
                     </div>
                 </a>
@@ -155,16 +155,18 @@
                 </a>
             </div>
             <div class="linhas">
-                <a href="../../Assets/pdf/CertificadoProductOwner.pdf" type="application/pdf" rel="next" target="_blank">
+                
+            <a href="../../Assets/pdf/CertificadoSegurança.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
-                            <h2>Evento</h2>
-                            <p>SATIGN 2023: O Papel do Product Owner</p>
+                            <h2>Curso</h2>
+                            <p>Sistemas computacionais e segurança</p>
                             <h2>FADERGS</h2>
-                            <h2>24/10/2023</h2>
+                            <h2>DEZ/2022</h2>
                         </div>
                     </div>
                 </a>
+
                 <a href="../../Assets/pdf/CertificadoSistemasDistribuidos.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
@@ -289,7 +291,7 @@
         <div class="certificadosNext" id="tres">
         <img src="../../Assets/img/kinghost.png" alt="">
             <div class="linhas">
-                <a href="../../Assets/pdf/KingHost/Modulo2(CMS)-WordPress.pdf.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/KingHost/Modulo2(CMS)-WordPress.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado" >
                         <div class="certificado">
                             <h2>Curso</h2>
@@ -299,7 +301,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/KingHost/Modulo11(emails)" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/KingHost/Modulo11(emails).pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
