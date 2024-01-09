@@ -289,77 +289,77 @@
         <div class="certificadosNext" id="tres">
         <img src="../../Assets/img/kinghost.png" alt="">
             <div class="linhas">
-                <a href="../../Assets/pdf/CursoEmVideo/JAVASCRIPT.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/KingHost/Modulo2(CMS)-WordPress.pdf.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado" >
                         <div class="certificado">
                             <h2>Curso</h2>
-                            <p>Javascript</p>
-                            <h2>Curso em vídeo</h2>
-                            <h2>NOV - 2023</h2>
+                            <p>CMS[Módulo2] - WordPress</p>
+                            <h2>KingHost</h2>
+                            <h2>2023</h2>
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/CursoEmVideo/HTML5-CSS3-MODULO4.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/KingHost/Modulo11(emails)" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
-                            <p>HTML5 e CSS3: Módulo 4 de 5 [VIP]</p>
-                            <h2>Curso em vídeo</h2>
-                            <h2>OUT - 2023</h2>
+                            <p>Emails[Módulo11] - SMTP Transacional</p>
+                            <h2>KingHost</h2>
+                            <h2>2023</h2>
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/CursoEmVideo/GIT-E-GITHUB.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/KingHost/Modulo2(Essenciais)-Registro-de-dominios.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
-                            <p>GIT e GITHUB</p>
-                            <h2>Curso em vídeo</h2>
-                            <h2>JUN - 2023</h2>
+                            <p>Essenciais[Módulo2] - Registro de domínio/p>
+                            <h2>KingHost</h2>
+                            <h2>2023</h2>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="linhas">
-                <a href="../../Assets/pdf/CertificadoModelagem.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/KingHost/Modulo3(Essenciais)-DNS.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
-                            <p>Modelagem de software</p>
-                            <h2>FADERGS</h2>
-                            <h2>JUN/2023</h2>
+                            <p>Essenciais[Módulo3] - DNS</p>
+                            <h2>KingHost</h2>
+                            <h2>2023</h2>
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/CertificadoSegurança.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/KingHost/OKR.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
-                            <p>Sistemas computacionais e segurança</p>
-                            <h2>FADERGS</h2>
-                            <h2>DEZ/2022</h2>
+                            <p>OKRs</p>
+                            <h2>KingHost</h2>
+                            <h2>2023</h2>
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/CertificadoAmbientes.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/KingHost/Treinamento-LGPD.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
-                            <p>Ambientes computacionais e conectividade</p>
-                            <h2>FADERGS</h2>
-                            <h2>DEZ/2022</h2>
+                            <p>Treinamento LGPD</p>
+                            <h2>Locaweb</h2>
+                            <h2>18/10/2023</h2>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="linhas">
-                <a href="../../Assets/pdf/CertificadoProductOwner.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/KingHost/novo-produto-WAF.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
-                            <h2>Evento</h2>
-                            <p>SATIGN 2023: O Papel do Product Owner</p>
-                            <h2>FADERGS</h2>
-                            <h2>24/10/2023</h2>
+                            <h2>Curso</h2>
+                            <p>SMART WAF</p>
+                            <h2>KingHost</h2>
+                            <h2>2023</h2>
                         </div>
                     </div>
                 </a>
