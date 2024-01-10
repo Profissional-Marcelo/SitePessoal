@@ -230,7 +230,7 @@
     }
 
     section.terceiraParte {
-        min-height: 80vh;
+        height: 100vh;
     }
 
     section.terceiraParte > h2{
@@ -307,7 +307,7 @@
     section.quartaParte {
         display: flex;
         justify-content: start;
-        min-height: 70vh;
+        height: 85vh;
     }
 
     section.quartaParte > div {
@@ -338,5 +338,12 @@
         font-size: 20px;
     }
 
+    .okr {
+        width: 100px;
+    }
+    
+    .okr > div {
+        width: 98% !important;
+    }
 
 }

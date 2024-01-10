@@ -82,14 +82,14 @@
     </section>
 
     <section class="quartaParte" id="certificados">
-       
-        <h2>Certificados<span class="colorPonto">.</span></h2>
-       
 
-       
+        <h2>Certificados<span class="colorPonto">.</span></h2>
+
+
+
 
         <div class="certificadosNext" id="um">
-        <img src="../../Assets/img/fadergs.png" alt="">
+            <img src="../../Assets/img/fadergs.png" alt="">
             <div class="linhas">
                 <a href="#" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
@@ -155,8 +155,8 @@
                 </a>
             </div>
             <div class="linhas">
-                
-            <a href="../../Assets/pdf/Fadergs/CertificadoSegurança.pdf" type="application/pdf" rel="next" target="_blank">
+
+                <a href="../../Assets/pdf/Fadergs/CertificadoSegurança.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
@@ -190,10 +190,10 @@
             </div>
         </div>
         <div class="certificadosNext" id="dois">
-        <img src="../../Assets/img/curso-em-video.jpg" alt="">
+            <img src="../../Assets/img/curso-em-video.jpg" alt="">
             <div class="linhas">
                 <a href="../../Assets/pdf/CursoEmVideo/JAVASCRIPT.pdf" type="application/pdf" rel="next" target="_blank">
-                    <div class="bordaCertificado" >
+                    <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
                             <p>Javascript</p>
@@ -289,10 +289,10 @@
             </div>
         </div>
         <div class="certificadosNext" id="tres">
-        <img src="../../Assets/img/kinghost.png" alt="">
+            <img src="../../Assets/img/kinghost.png" alt="">
             <div class="linhas">
                 <a href="../../Assets/pdf/KingHost/Modulo2(CMS)-WordPress.pdf" type="application/pdf" rel="next" target="_blank">
-                    <div class="bordaCertificado" >
+                    <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
                             <p>CMS[Módulo2] - WordPress</p>
@@ -334,7 +334,7 @@
                     </div>
                 </a>
                 <a href="../../Assets/pdf/KingHost/OKR.pdf" type="application/pdf" rel="next" target="_blank">
-                    <div class="bordaCertificado">
+                    <div class="bordaCertificado okr">
                         <div class="certificado">
                             <h2>Curso</h2>
                             <p>OKRs</p>
@@ -388,10 +388,10 @@
             </div>
         </div>
         <div class="certificadosNext" id="quatro">
-        <img class="danki" src="../../Assets/img/danki.png" alt="">
+            <img class="danki" src="../../Assets/img/danki.png" alt="">
             <div class="linhas">
                 <a href="../../Assets/pdf/CursoEmVideo/JAVASCRIPT.pdf" type="application/pdf" rel="next" target="_blank">
-                    <div class="bordaCertificado" >
+                    <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
                             <p>Javascript</p>
@@ -488,9 +488,9 @@
         </div>
 
         <!-- Navegação automática -->
-       
- <div class="slides">
-            <input type="radio" name="radio-btn" id="radio1"  checked>
+
+        <div class="slides">
+            <input type="radio" name="radio-btn" id="radio1" checked>
             <input type="radio" name="radio-btn" id="radio2">
             <input type="radio" name="radio-btn" id="radio3">
             <input type="radio" name="radio-btn" id="radio4">
@@ -503,17 +503,14 @@
 
 
             <div class="border1">
-                <input id="replyto" name="replyto" placeholder="E-mail"  required="" type="text"
-                minlength="8" maxlength="100"
-                autocomplete="email"
-                >
+                <input id="replyto" name="replyto" placeholder="E-mail" required="" type="text" minlength="8" maxlength="100" autocomplete="email">
                 <div class="icon">
                     <span class="material-symbols-outlined">
                         mail
                     </span>
                 </div>
-                
-                
+
+
             </div>
 
             <div class="border2"><textarea rows="10" maxlength="500" required placeholder="Deixe sua ideia ou sugestão" id="mensagem" name="mensagem"></textarea></div>
