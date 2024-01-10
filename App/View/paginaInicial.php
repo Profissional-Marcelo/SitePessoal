@@ -101,7 +101,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/CertificadoSistemasDistribuidos.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/Fadergs/CertificadoSistemasDistribuidos.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
@@ -111,7 +111,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/CertificadoProgramação.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/Fadergs/CertificadoProgramação.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
@@ -123,7 +123,7 @@
                 </a>
             </div>
             <div class="linhas">
-                <a href="../../Assets/pdf/CertificadoModelagem.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/Fadergs/CertificadoModelagem.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
@@ -133,7 +133,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/CertificadoWeb.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/Fadergs/CertificadoWeb.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
@@ -143,7 +143,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/CertificadoAmbientes.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/Fadergs/CertificadoAmbientes.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
@@ -156,7 +156,7 @@
             </div>
             <div class="linhas">
                 
-            <a href="../../Assets/pdf/CertificadoSegurança.pdf" type="application/pdf" rel="next" target="_blank">
+            <a href="../../Assets/pdf/Fadergs/CertificadoSegurança.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
@@ -167,7 +167,7 @@
                     </div>
                 </a>
 
-                <a href="../../Assets/pdf/CertificadoSistemasDistribuidos.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/Fadergs/CertificadoSistemasDistribuidos.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
@@ -177,7 +177,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/CertificadoEmpreenderFGTAS.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/Fadergs/CertificadoEmpreenderFGTAS.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Evento</h2>
@@ -368,20 +368,20 @@
                 <a href="../../Assets/pdf/KingHost/Modulo3(CMS)-Joomla.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
-                            <h2>Evento</h2>
+                            <h2>Curso</h2>
                             <p>CMS[Módulo3] - Joomla</p>
                             <h2>KingHost</h2>
                             <h2>2024</h2>
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/CertificadoEmpreenderFGTAS.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/KingHost/Modulo4(CMS)-Moodle.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
-                            <h2>Evento</h2>
-                            <p>SEE 2023 - O Empreender FGTAS</p>
-                            <h2>FADERGS</h2>
-                            <h2>25/05/2023</h2>
+                            <h2>Curso</h2>
+                            <p>CMS[Módulo4] - Moodle</p>
+                            <h2>KingHost</h2>
+                            <h2>2024</h2>
                         </div>
                     </div>
                 </a>
