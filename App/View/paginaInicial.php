@@ -411,7 +411,7 @@
                     </div>
                 </a>
                 <a href="../../Assets/pdf/CursoEmVideo/GIT-E-GITHUB.pdf" type="application/pdf" rel="next" target="_blank">
-                    <div class="bordaCertificado">
+                    <div class="bordaCertificado github">
                         <div class="certificado">
                             <h2>Curso</h2>
                             <p>GIT e GITHUB</p>

@@ -338,6 +338,15 @@
         font-size: 20px;
     }
 
+    .github {
+        width: 100px !important;
+        
+    }
+
+    .github > div {
+        width: 98% !important;
+    }
+
     .okr {
         width: 100px;
     }
@@ -345,5 +354,7 @@
     .okr > div {
         width: 98% !important;
     }
+
+    
 
 }
