@@ -224,13 +224,13 @@
                 </a>
             </div>
             <div class="linhas">
-                <a href="../../Assets/pdf/CertificadoModelagem.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/CursoEmVideo/PHP-MODERNO-MODULO01.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
-                            <p>Modelagem de software</p>
-                            <h2>FADERGS</h2>
-                            <h2>JUN/2023</h2>
+                            <p>PHP MODERNO MÓDULO 1 [VIP]</p>
+                            <h2>Curso em vídeo</h2>
+                            <h2>15/01/2024</h2>
                         </div>
                     </div>
                 </a>
