@@ -315,7 +315,7 @@
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
-                            <p>Essenciais[Módulo2] - Registro de domínio/p>
+                            <p>Essenciais[Módulo2] - Registro de domínio</p>
                             <h2>KingHost</h2>
                             <h2>2023</h2>
                         </div>
