@@ -313,10 +313,24 @@
     section.quartaParte > div {
         margin: 40px 0px;
     }
+
+
     section.quartaParte > div > div.linhas{
         display: flex;
         flex-direction: row;
         justify-content: center;
+    }
+
+    section.quartaParte > div > div > a > div {
+        width: 301px;
+        height: 140px;
+    }
+
+    div.certificado{
+        width: 296px !important;
+        height: 125px !important;
+        transform: translate(1px, 3px) !important;
+        
     }
 
     section.quartaParte > h2 {
@@ -338,22 +352,7 @@
         font-size: 20px;
     }
 
-    .github {
-        width: 100px !important;
-        
-    }
-
-    .github > div {
-        width: 98% !important;
-    }
-
-    .okr {
-        width: 100px;
-    }
-    
-    .okr > div {
-        width: 98% !important;
-    }
+   
 
     
 

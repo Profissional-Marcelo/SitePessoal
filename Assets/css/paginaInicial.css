@@ -366,29 +366,15 @@ section.quartaParte > div > div > a > div > div > p {
 }
 
 
-
-/* slider */
-
-/* 
-    
-section.quartaParte = div.slider
-
-div slides = div slides
-
-div.certificados = div.slide first
-
-div.certificados = div.slide
-
-
-*/
-
 section.quartaParte > div.certificadosNext{
     display: none;
 }
 
 
 
+
 .slides input {
+    display: none;
     cursor: pointer;
 }
 
@@ -402,7 +388,17 @@ section.quartaParte > div.certificadosNext{
 }
 
 
+.manual-btn{
+    display: inline-block;
+    border: 1px solid white;
+    margin: 10px;
+    width: 25px;
+    height: 25px;
+    border-radius: 200px;
+    cursor: pointer;
+}
 
-
-
+.manual-btn-activate{
+    background-color: #9c8cb1;
+}
 

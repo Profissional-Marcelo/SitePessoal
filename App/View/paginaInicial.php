@@ -85,7 +85,7 @@
 
         <h2>Certificados<span class="colorPonto">.</span></h2>
 
-
+           
 
 
         <div class="certificadosNext" id="um">
@@ -390,23 +390,23 @@
         <div class="certificadosNext" id="quatro">
             <img class="danki" src="../../Assets/img/danki.png" alt="">
             <div class="linhas">
-                <a href="../../Assets/pdf/CursoEmVideo/JAVASCRIPT.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/DankiCode/WordpressComElementor.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
-                            <p>Javascript</p>
-                            <h2>Curso em vídeo</h2>
-                            <h2>NOV - 2023</h2>
+                            <p>Curso wordpress com elementor</p>
+                            <h2>Danki Code</h2>
+                            <h2>JAN - 2024</h2>
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/CursoEmVideo/HTML5-CSS3-MODULO4.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/DankiCode/CursoDeScratch.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
-                            <p>HTML5 e CSS3: Módulo 4 de 5 [VIP]</p>
-                            <h2>Curso em vídeo</h2>
-                            <h2>OUT - 2023</h2>
+                            <p>Curso de scratch - crie jogos e animações</p>
+                            <h2>Danki Code</h2>
+                            <h2>JAN - 2024</h2>
                         </div>
                     </div>
                 </a>
@@ -494,7 +494,15 @@
             <input type="radio" name="radio-btn" id="radio2">
             <input type="radio" name="radio-btn" id="radio3">
             <input type="radio" name="radio-btn" id="radio4">
+
+            <label id="label1" for="radio1" class="manual-btn"></label>
+            <label id="label2" for="radio2" class="manual-btn"></label>
+            <label id="label3" for="radio3" class="manual-btn"></label>
+            <label id="label4" for="radio4" class="manual-btn"></label>
+            
         </div>
+
+            
     </section>
 
     <section class="terceiraParte">

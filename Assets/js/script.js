@@ -1,54 +1,91 @@
-document.addEventListener('DOMContentLoaded', function () {
-  let radios = [
-      document.getElementById('radio1'),
-      document.getElementById('radio2'),
-      document.getElementById('radio3'),
-      document.getElementById('radio4')
-  ];
+$(document).ready(function () {
+    let radios = [
+        $('#radio1')[0],
+        $('#radio2')[0],
+        $('#radio3')[0],
+        $('#radio4')[0]
+    ];
 
-  let slides = [
-      document.getElementById('um'),
-      document.getElementById('dois'),
-      document.getElementById('tres'),
-      document.getElementById('quatro')
-  ];
+    let labels = [
+        $('#label1'),
+        $('#label2'),
+        $('#label3'),
+        $('#label4')
+    ];
 
-  let currentIndex = 0;
-  let intervalId;
+    let slides = [
+        $('#um'),
+        $('#dois'),
+        $('#tres'),
+        $('#quatro')
+    ];
 
-  function updateSlides() {
-      for (let i = 0; i < radios.length; i++) {
-          slides[i].style.display = i === currentIndex ? 'block' : 'none';
-      }
-  }
+    let currentIndex = 0;
+    let intervalId;
 
-  function changeRadio(index) {
-      currentIndex = index;
-      radios[currentIndex].checked = true;
-      updateSlides();
-  }
+    function updateSlides() {
+        slides.forEach((slide, index) => {
+            slide.css('display', index === currentIndex ? 'block' : 'none');
+        });
+    }
 
-  function changeRadioAfterInterval() {
-      intervalId = setInterval(function () {
-          currentIndex = (currentIndex + 1) % radios.length;
-          radios[currentIndex].checked = true;
-          updateSlides();
-      }, 3000); // 3000 milliseconds (3 seconds) - você pode ajustar o tempo conforme necessário
-  }
+    function changeRadio(index) {
+        currentIndex = index;
+        radios[currentIndex].checked = true;
+        updateSlides();
+    }
 
-  // Adiciona os eventos de mudança aos botões de rádio
-  for (let i = 0; i < radios.length; i++) {
-      radios[i].addEventListener('change', function () {
-          clearInterval(intervalId); // Limpa o intervalo ao marcar manualmente um rádio
-          changeRadio(i);
-      });
-  }
+    function changeRadioAfterInterval() {
+        intervalId = setInterval(function () {
+            currentIndex = (currentIndex + 1) % radios.length;
+            radios[currentIndex].checked = true;
+            updateSlides();
+            verificaRadio(); // Chama a função para verificar os rádios
+        }, 3000);
+    }
 
-  // Inicializa os slides com base nos botões de rádio iniciais
-  updateSlides();
+    // Adiciona os eventos de mudança aos botões de rádio usando jQuery
+    radios.forEach((radio, index) => {
+        $(radio).on('change', function () {
+            clearInterval(intervalId);
+            changeRadio(index);
+        });
+    });
 
-  // Exemplo de como mudar o rádio marcado em intervalos regulares (3 segundos no exemplo)
-  changeRadioAfterInterval();
+    // Inicializa os slides com base nos botões de rádio iniciais
+    updateSlides();
+
+    // Exemplo de como mudar o rádio marcado em intervalos regulares (3 segundos no exemplo)
+    changeRadioAfterInterval();
+
+    // Função verifica radio
+    function verificaRadio() {
+        labels.forEach((label, index) => {
+            if (radios[index].checked) {
+                label.css('background-color', '#8C52FF');
+                radios.forEach((radio, i) => {
+                    if (i !== index) {
+                        radio.checked = false;
+                    }
+                });
+            } else {
+                label.css('background-color', 'black');
+            }
+        });
+    }
+
+    // Chamando a função para verificar a seleção ao clicar em um botão usando jQuery
+    $(document).on("change", verificaRadio);
+
+  // Chamando a função para verificar a seleção ao clicar em um botão
+  document.addEventListener("change", verificaRadio);  
+
+
+
+
+
+  
+
 });
 
 
