@@ -307,7 +307,7 @@
     section.quartaParte {
         display: flex;
         justify-content: start;
-        height: 85vh;
+        height: 90vh;
     }
 
     section.quartaParte > div {
