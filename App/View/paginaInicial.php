@@ -410,13 +410,13 @@
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/CursoEmVideo/GIT-E-GITHUB.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/DankiCode/JavascriptParaGames.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado github">
                         <div class="certificado">
                             <h2>Curso</h2>
-                            <p>GIT e GITHUB</p>
-                            <h2>Curso em vídeo</h2>
-                            <h2>JUN - 2023</h2>
+                            <p>Curso de Javascript para games</p>
+                            <h2>Danki Code</h2>
+                            <h2>FEV - 2024</h2>
                         </div>
                     </div>
                 </a>

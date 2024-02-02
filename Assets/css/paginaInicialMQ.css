@@ -125,7 +125,7 @@
     section.quartaParte {
         display: flex;
         justify-content: start;
-        min-height: 70vh;
+        height: 850px;
     }
 
     section.quartaParte > div {
@@ -154,6 +154,16 @@
         font-size: 16px;
     }
 
+    section.quartaParte > div > div > a > div {
+        width: 200px;
+        height: 130px;
+    }
+
+    section.quartaParte > div > div > a > div > div {
+        transform: translate(2px, 1px);
+        width: 194px;
+        height: 117px;
+    }
 }
 
 
@@ -307,7 +317,7 @@
     section.quartaParte {
         display: flex;
         justify-content: start;
-        height: 90vh;
+        height: 900px;
     }
 
     section.quartaParte > div {
@@ -322,16 +332,15 @@
     }
 
     section.quartaParte > div > div > a > div {
-        width: 301px;
+        width: 340px;
         height: 140px;
     }
 
-    div.certificado{
-        width: 296px !important;
-        height: 125px !important;
-        transform: translate(1px, 3px) !important;
-        
+    section.quartaParte > div > div > a > div > div {
+        width: 337px;
+        height: 130px;
     }
+
 
     section.quartaParte > h2 {
         font-size: 50px;
