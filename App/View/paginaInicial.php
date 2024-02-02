@@ -85,7 +85,7 @@
 
         <h2>Certificados<span class="colorPonto">.</span></h2>
 
-           
+
 
 
         <div class="certificadosNext" id="um">
@@ -499,13 +499,13 @@
             <label id="label2" for="radio2" class="manual-btn"></label>
             <label id="label3" for="radio3" class="manual-btn"></label>
             <label id="label4" for="radio4" class="manual-btn"></label>
-            
+
         </div>
 
-            
+
     </section>
 
-    <section class="terceiraParte">
+    <!-- <section class="terceiraParte">
         <h2>Fale comigo</h2>
         <form action="../../App/Controller/faleComigo.php" method="post" id="faleComigo">
 
@@ -523,9 +523,9 @@
 
             <div class="border2"><textarea rows="10" maxlength="500" required placeholder="Deixe sua ideia ou sugestão" id="mensagem" name="mensagem"></textarea></div>
 
-            <button type="submit" id="submitButton"><img src="../../Assets/img/botaoEnviar.png" alt="botao de envio"></button>
+            <a href="#"><button type="submit" id="submitButton" class="bn30">Enviar</button></a>
         </form>
-    </section>
+    </section> -->
     <script src="../../Assets/js/jquery.js"></script>
     <script src="../../Assets/js/script.js"></script>
 </body>
