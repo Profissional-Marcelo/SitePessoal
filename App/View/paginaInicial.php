@@ -234,13 +234,13 @@
                         </div>
                     </div>
                 </a>
-                <a href="../../Assets/pdf/CertificadoSegurança.pdf" type="application/pdf" rel="next" target="_blank">
+                <a href="../../Assets/pdf/CursoEmVideo/Curso_Ingles_Modulo01.pdf" type="application/pdf" rel="next" target="_blank">
                     <div class="bordaCertificado">
                         <div class="certificado">
                             <h2>Curso</h2>
-                            <p>Sistemas computacionais e segurança</p>
-                            <h2>FADERGS</h2>
-                            <h2>DEZ/2022</h2>
+                            <p>CURSO DE INGLÊS MÓDULO 1: BEGINNERS</p>
+                            <h2>Curso em Vídeo</h2>
+                            <h2>FEV/2024</h2>
                         </div>
                     </div>
                 </a>
