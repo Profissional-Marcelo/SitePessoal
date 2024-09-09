@@ -180,7 +180,7 @@
     section.primeiraParte > div {
         margin: auto;
         display: block;
-        width: 700px;
+        width: 800px;
         transform: translateX(55px);
     }
 

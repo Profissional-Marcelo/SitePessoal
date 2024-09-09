@@ -38,7 +38,7 @@
             <h1 class="titulo2"><strong translate="no">DE SISTEMAS</strong></h1>
 
             <div class="paragrafo">
-                <p class="story">TENHO 21 ANOS, E POSSUO VASTA EXPERIÊNCIA E INTERESSE PELA ÁREA DE ANALISTA DE SISTEMAS E QA.</p>
+                <p class="story">TENHO 21 ANOS, E POSSUO VASTA EXPERIÊNCIA E INTERESSE PELAS ÁREAS DE ANALISTA DE SISTEMAS E QA.</p>
             </div>
 
         </div>
