@@ -97,7 +97,7 @@
                             <h2>Tecnologo</h2>
                             <p>Análise e desenvolvimento de sistemas</p>
                             <h2>FADERGS</h2>
-                            <h2>2022 - 2024</h2>
+                            <h2>2022 - 2025</h2>
                         </div>
                     </div>
                 </a>
