@@ -19,7 +19,7 @@
         <div>
             <p class="quemSou">OI 👋 EU SOU O MARCELO</p>
             <div class="container">
-                <h1 class="titulo1"><strong translate="no">REACT</strong></h1>
+                <h1 class="titulo1"><strong translate="no">ANALISTA</strong></h1>
                 <div class="icones">
 
                     <a href="https://www.linkedin.com/in/marcelo-rei-8246a226a/" target="_blank">
@@ -35,10 +35,10 @@
 
                 </div>
             </div>
-            <h1 class="titulo2"><strong translate="no">DEVELOPER</strong></h1>
+            <h1 class="titulo2"><strong translate="no">DE SISTEMAS</strong></h1>
 
             <div class="paragrafo">
-                <p class="story">TENHO 20 ANOS, SOU DESENVOLVEDOR FRONTEND COM 5 MESES DE EXPERIENCIA TRABALHANDO COMO FREELANCER</p>
+                <p class="story">TENHO 21 ANOS, E POSSUO VASTA EXPERIÊNCIA E INTERESSE PELA ÁREA DE ANALISTA DE SISTEMAS E TAMBÉM QA.</p>
             </div>
 
         </div>
@@ -48,14 +48,14 @@
     <section class="segundaParte">
         <div class="espacamento">
             <div class="projetos">
-                <a href="https://memsolucoestecnologicas.com.br/App/View/login.php" target="_blank">
+                <a href="#" target="_blank">
                     <img class="tablet1" src="../../Assets/img/tablet1.png" alt="projeto">
                     <p>LOJA 3M</p>
                     <h2>Loja com aplicativo e site administrativo</h2>
                 </a>
             </div>
             <div class="projetos">
-                <a href="http://www.marcelohenrique.kinghost.net/App/View/paginaInicial.php" target="_blank">
+                <a href="#" target="_blank">
                     <img class="tablet2" src="../../Assets/img/tablet2.png" alt="projeto">
                     <p>HOST MENTOR</p>
                     <h2>Site auxiliar de trabalho com gamequiz</h2>
@@ -64,7 +64,7 @@
         </div>
         <div class="espacamento">
             <div class="projetos">
-                <a href="https://estudos.marcelorei.com.br" target="_blank">
+                <a href="#" target="_blank">
                     <img class="tablet3" src="../../Assets/img/tablet3.png" alt="projeto">
                     <p>ESTUDOS</p>
                     <h2>Site para consultar códigos dos meus estudos</h2>
@@ -72,7 +72,7 @@
             </div>
 
             <div class="projetos">
-                <a href="https://pousadaguaibacountry.com.br">
+                <a href="#">
                     <img class="tablet4" src="../../Assets/img/tablet4.png" alt="projeto">
                     <p>CLIENTE REAL</p>
                     <h2>Pousada desenvolvida em wordpress</h2>
