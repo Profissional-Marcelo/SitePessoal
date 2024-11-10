@@ -127,13 +127,16 @@ section.primeiraParte > div > div.container {
 }
 
 section.primeiraParte > div > div.container > h1.titulo1{
+    width: 50%;
     display: inline-block;
     font-size: 55px;
 }
 
 
 section.primeiraParte > div > div > div.icones{
-display: inline-block;
+width: 50%;
+display: flex;
+justify-content: start;
 margin: auto;
 }
 

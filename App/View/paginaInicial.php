@@ -19,7 +19,7 @@
         <div>
             <p class="quemSou">OI 👋 EU SOU O MARCELO</p>
             <div class="container">
-                <h1 class="titulo1"><strong translate="no">ANALISTA</strong></h1>
+                <h1 class="titulo1"><strong translate="no">WEB</strong></h1>
                 <div class="icones">
 
                     <a href="https://www.linkedin.com/in/marcelo-rei-8246a226a/" target="_blank">
@@ -35,10 +35,10 @@
 
                 </div>
             </div>
-            <h1 class="titulo2"><strong translate="no">DE SISTEMAS</strong></h1>
+            <h1 class="titulo2"><strong translate="no">DEVELOPER</strong></h1>
 
             <div class="paragrafo">
-                <p class="story">TENHO 21 ANOS, E POSSUO VASTA EXPERIÊNCIA E INTERESSE PELAS ÁREAS DE ANALISTA DE SISTEMAS E QA.</p>
+                <p class="story">TENHO 21 ANOS, E POSSUO VASTA EXPERIÊNCIA E INTERESSE PELAS ÁREAS DE DESENVOLVIMENTO WEB.</p>
             </div>
 
         </div>
