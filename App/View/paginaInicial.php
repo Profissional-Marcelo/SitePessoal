@@ -19,7 +19,7 @@
         <div>
             <p class="quemSou">OI 👋 EU SOU O MARCELO</p>
             <div class="container">
-                <h1 class="titulo1"><strong translate="no">WEB</strong></h1>
+                <h1 class="titulo1"><strong translate="no">FULL STACK</strong></h1>
                 <div class="icones">
 
                     <a href="https://www.linkedin.com/in/marcelo-rei-8246a226a/" target="_blank">
