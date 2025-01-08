@@ -1,7 +1,6 @@
 
 
 
-
 @charset "UTF-8";
 
 @font-face {
@@ -270,10 +269,12 @@ section.terceiraParte > form {
     
 }
 
+
 section.terceiraParte > form > div.border1 {
     margin: 10px;
 
-    /* padding-top: 1px; */
+  /* padding-top: 1px; */
+ 
     width: calc(80vw + 6px);
     height: 56px;
     background:  linear-gradient(to right, #004AAD, #CB6CE6);
@@ -453,3 +454,7 @@ section.quartaParte > div.certificadosNext{
     background-color: #9c8cb1;
 }
 
+
+body{
+    background-color: black;
+}

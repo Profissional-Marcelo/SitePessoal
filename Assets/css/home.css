@@ -1,0 +1,116 @@
+@font-face {
+    font-family: Library;
+    src: url(../font/Library\ 3\ am.otf)
+  }
+
+@font-face{
+    font-family: 'fonteTitulo';
+        src: url(../font/infoma-heavy.ttf) format('truetype');
+        font-weight: bolder;
+        font-style: normal;
+}
+
+:root{
+    --titulo: 'fonteTitulo', sans-serif;
+    --gradiente1-1: #2B282F;
+    --gradiente1-2: #4E435C;
+    --gradiente1-3: #4E435C;
+    --quemsou: #9c8cb1;
+    --coricones: #F2E8B3;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;     
+    font-family: var(--titulo);
+}
+
+.w100{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+section.primeira-parte{
+    background-image: radial-gradient(circle, var(--gradiente1-3),var(--gradiente1-2), var(--gradiente1-1));
+    height: 100vh;
+}
+
+section.primeira-parte div.w100{
+    height: 100vh;
+    flex-direction: column;
+}
+
+section.primeira-parte p.quem-sou{
+    width: 100%;
+    max-width: 260px;
+    font-size: 1.2rem;
+    color: var(--quemsou);
+}
+
+section.primeira-parte h1 , section.primeira-parte p.quem-sou {
+    text-transform: uppercase;
+}
+
+section.primeira-parte h1 {
+    margin-right: 5px;
+    font-size: 3rem;
+}
+
+section.primeira-parte h1, p.historia{
+    color: white;
+}
+
+
+section.primeira-parte div.icones{
+    display: flex;
+    align-items: center;
+}
+
+
+section.primeira-parte i {
+    width: 30px;
+    margin: 0px 5px;
+    font-size: 2rem;
+    color: var(--coricones);
+}
+
+section.primeira-parte div.w100 div.titulo-1, section.primeira-parte div.w100 div.titulo-2{
+    width: 100%;
+    max-width: 265px;
+    text-align: start;
+}
+
+section.primeira-parte div.w100 div.titulo-1, section.primeira-parte div.w100 div.titulo-2{
+    display: flex;
+}
+
+section.primeira-parte div.w100 div.titulo-2 {
+    flex-direction: column;
+    align-items: center;
+}
+
+section.primeira-parte div.w100 div.paragrafo{
+    width: 100%;
+    max-width: 260px;
+   font-size: 1.2rem;
+   text-transform: uppercase;
+}
+
+section.primeira-parte div.w100 p.historia{
+    font-weight: normal;
+    font-family: sans-serif;
+}
+
+section.primeira-parte div.w100 img {
+    margin-left: 7px;
+    height: 30px;
+    width: 30px;
+    transform: translateY(2px);
+}

@@ -1,0 +1,34 @@
+@media screen and (min-width: 768px) {
+    section.primeira-parte p.quem-sou{
+        font-size: 2rem;
+        max-width: 700px;
+    }
+
+    section.primeira-parte h1{
+        font-size: 8rem;
+    }
+
+    section.primeira-parte div.w100 div.titulo-1, section.primeira-parte div.w100 div.titulo-2 {
+        max-width: 700px;
+    }
+
+    section.primeira-parte i {
+        width: 60px;
+        font-size: 4rem;
+    }
+
+    section.primeira-parte div.w100 img{
+        width: 60px;
+        height: 60px;
+    }
+
+    section.primeira-parte div.w100 div.paragrafo{
+        max-width: 700px;
+    }
+
+    section.primeira-parte div.w100 p.historia{
+        font-size: 2rem;
+        max-width: 700px;
+    }
+
+}
