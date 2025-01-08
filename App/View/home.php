@@ -17,33 +17,49 @@
     <section class="primeira-parte">
         <div class="w100">
             <p class="quem-sou">Oi 👋 eu sou o Marcelo</p>
-                <div class="titulo-1">
-                    <h1>web</h1>
-                    <div class="icones">
+            <div class="titulo-1">
+                <h1>web</h1>
+                <div class="icones">
 
-                        <a href="https://www.linkedin.com/in/marcelo-rei-8246a226a/" target="_blank">
-                            <i class="devicon-linkedin-plain"></i></a>
+                    <a href="https://www.linkedin.com/in/marcelo-rei-8246a226a/" target="_blank">
+                        <i class="devicon-linkedin-plain"></i></a>
 
-                        <a href="https://github.com/Profissional-Marcelo" target="_blank">
-                            <i class="devicon-github-original "></i></a>
+                    <a href="https://github.com/Profissional-Marcelo" target="_blank">
+                        <i class="devicon-github-original "></i></a>
 
 
-                        <a href="../../Assets/pdf/curriculo.pdf" type="application/pdf" rel="next" target="_blank">
+                    <a href="../../Assets/pdf/curriculo.pdf" type="application/pdf" rel="next" target="_blank">
 
-                            <img src="../../Assets/img/curriculo.png" alt="curriculo"></a>
+                        <img src="../../Assets/img/curriculo.png" alt="curriculo"></a>
 
-                    </div>
                 </div>
-                <div class="titulo-2">
-                    <h1>developer</h1>
-                    <div class="paragrafo">
-                        <p class="historia">tenho 21 anos e possuo vasta experiência e interesse pelas áreas de desenvolvimento web.</p>
-                    </div>
+            </div>
+            <div class="titulo-2">
+                <h1>developer</h1>
+                <div class="paragrafo">
+                    <p class="historia">tenho 21 anos e possuo vasta experiência e interesse pelas áreas de desenvolvimento web.</p>
                 </div>
+            </div>
 
         </div>
     </section>
-
+    <section class="segunda-parte">
+        <div class="container">
+            <div class="parte-um">
+                <div class="projetos">
+                    <a href="#" target="_blank">
+                        <img class="tablet1" src="../../Assets/img/tablet1.png" alt="projeto">
+                        <h2>WIKI P2K</h2>
+                        <p>Wiki criada para facilitação dos serviços e informações sobre fluxos da equipe de suporte de TI. </p>
+                        <p>Tecnologias utilizadas: HTML, CSS, JavaScript, PHP e MySQL</p>
+                    </a>
+                </div>
+            </div>
+            <div class="parte-dois">
+                <div class="projetos"></div>
+            </div>
+        </div>
+    </section>
 
     <script src="../../Assets/js/jquery.js"></script>
     <script src="../../Assets/js/home.js"></script>
