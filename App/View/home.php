@@ -47,7 +47,7 @@
         <div class="container">
             <div class="parte-um">
                 <div class="projetos">
-                    <a href="#" target="_blank">
+                    <a href="www.p2kwiki.com.br" target="_blank">
                         <img class="tablet1" src="../../Assets/img/tablet1.png" alt="projeto">
                         <h2>WIKI P2K</h2>
                         <p>Wiki criada para facilitação dos serviços e informações sobre fluxos da equipe de suporte de TI. </p>
@@ -60,7 +60,9 @@
             </div>
         </div>
     </section>
-
+    <section class="terceira-parte">
+        <h2>Certificados<span>.<span></h2>
+    </section>
     <script src="../../Assets/js/jquery.js"></script>
     <script src="../../Assets/js/home.js"></script>
 </body>

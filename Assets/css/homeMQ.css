@@ -31,4 +31,9 @@
         max-width: 700px;
     }
 
+
+    section.segunda-parte div.container a p {
+        font-size: 1.3rem;
+    }
+
 }
