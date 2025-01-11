@@ -99,6 +99,10 @@ section.primeira-parte div.w100 div.titulo-2 {
     align-items: center;
 }
 
+section.primeira-parte div.w100 div.titulo-2 h1 {
+    transform: translateX(-6px);
+}
+
 section.primeira-parte p.quem-sou, section.primeira-parte div.w100 div.paragrafo{
     width: 100%;
     max-width: 290px;
@@ -183,4 +187,92 @@ section.terceira-parte h2 {
 section.terceira-parte h2 span {
     font-size: 3rem;
     color: #8C52FF;
+}
+
+section.terceira-parte > div.slides{
+    display: none;
+}
+
+section.terceira-parte > div.slide-active {
+    display: block;
+}
+
+section.terceira-parte div.bullets {
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+    min-height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.terceira-parte div.bullets span.bullet-active, section.terceira-parte div.bullets span.bullet {
+    border: 1px solid white;
+    padding: 15px;
+    border-radius: 100%;
+    margin: 0px 10px;
+    cursor: pointer;
+}
+
+section.terceira-parte div.bullets span.bullet{
+    background-color:  #c1b3df;
+}
+
+section.terceira-parte div.bullets span.bullet-active {
+    background-color:  #8C52FF;
+}
+
+section.terceira-parte div.slides div.container a, section.terceira-parte div.slides div.container p  { 
+    text-decoration: none;
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+
+section.terceira-parte div.slides div.container div.border-color div.curso h2, section.terceira-parte div.slides div.container a, section.terceira-parte div.slides div.container p {
+    text-align: start;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+section.terceira-parte div.slides div.container div.border-color div.curso h2, section.terceira-parte div.slides div.container p {
+    margin: 10px 0px;
+}
+
+section.terceira-parte div.slides div.container div.border-color div.curso h2 {
+    font-size: 1rem;
+}
+
+
+section.terceira-parte div.slides div.container div.border-color {
+    
+    width: 90%;
+    height: 170px;
+    margin: 10px auto;
+}
+
+section.terceira-parte div.slides div.container div.border-color:hover {
+    background-image: linear-gradient(to right, #004AAD, #CB6CE6);
+}
+
+section.terceira-parte div.slides div.container div.border-color div.curso {
+    padding: 10px;
+    width: calc(100% - 24px);
+    height: 146px;
+    transform: translateY(2px);
+    background-color: #2b2b2b;
+    margin: auto;
+}
+
+
+
+section.terceira-parte div.slides div.img {
+    width: 90%;
+    margin: auto;
+}
+
+section.terceira-parte div.slides img {
+    margin-left: 2px;
+    width: 50px;
 }

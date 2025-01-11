@@ -35,5 +35,9 @@
     section.segunda-parte div.container a p {
         font-size: 1.3rem;
     }
+    
+    section.primeira-parte div.w100 div.titulo-2 h1 {
+        transform: translateX(0px);
+    }
 
 }
