@@ -40,6 +40,28 @@
         transform: translateX(0px);
     }
 
-    
+    section.terceira-parte div.certificados > div{
+   
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
 
+    section.terceira-parte div.slides div.container div.border-color {
+        width: 100%;
+    }
+
+   
+    section.terceira-parte div.slides div.container a {
+        width: 30%;
+        margin: 0px 10px;
+    }
+
+    section.terceira-parte div.slides div.container a h2 {
+        font-size: 1.1em !important;
+    }
+
+    section.terceira-parte div.container div.img{
+        transform: translateX(-19px);
+    }
 }

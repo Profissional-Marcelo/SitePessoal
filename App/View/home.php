@@ -47,7 +47,7 @@
         <div class="container">
             <div class="parte-um">
                 <div class="projetos">
-                    <a href="www.p2kwiki.com.br" target="_blank">
+                    <a href="https://www.wikip2k.com.br" target="_blank">
                         <img class="tablet1" src="../../Assets/img/tablet1.png" alt="projeto">
                         <h2>WIKI P2K</h2>
                         <p>Wiki criada para facilitação dos serviços e informações sobre fluxos da equipe de suporte de TI. </p>
@@ -83,7 +83,7 @@
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2>sabilidade, Desenvolvimento WEB, Mobile E Jogos</h2>
+                                    <h2>Usabilidade, Desenvolvimento WEB, Mobile E Jogos</h2>
                                     <p>Fadergs</p>
                                     <p>DEZ/2023</p>
                                 </div>
@@ -99,6 +99,9 @@
                                 </div>
                             </div>
                         </a>
+
+                    </div>
+                    <div class="col2">
                         <a href="../../Assets/pdf/Fadergs/CertificadoProgramação.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
@@ -109,8 +112,6 @@
                                 </div>
                             </div>
                         </a>
-                    </div>
-                    <div class="col2">
                         <a href="../../Assets/pdf/Fadergs/CertificadoModelagem.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
