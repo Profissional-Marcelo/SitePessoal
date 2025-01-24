@@ -122,41 +122,45 @@
                                 </div>
                             </div>
                         </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/Fadergs/CertificadoAmbientes.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
+                                    <h2>Ambientes computacionais e conectividade</h2>
+                                    <p>FADERGS</p>
+                                    <p>DEZ/2022</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="col3">
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/Fadergs/CertificadoSegurança.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
+                                    <h2>Sistemas computacionais e segurança</h2>
+                                    <p>FADERGS</p>
+                                    <p>DEZ/2022</p>
                                 </div>
                             </div>
                         </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/Fadergs/CertificadoSistemasDistribuidos.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
+                                    <h2>Sistemas distribuidos e mobile</h2>
+                                    <p>FADERGS</p>
+                                    <p>DEZ/2023</p>
                                 </div>
                             </div>
                         </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/Fadergs/CertificadoEmpreenderFGTAS.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
+                                    <h2>SEE 2023 - O Empreender FGTAS</h2>
+                                    <p>FADERGS</p>
+                                    <p>MAI/2023</p>
                                 </div>
                             </div>
                         </a>
@@ -166,61 +170,67 @@
         </div>
         <div class="slides" id="dois">
             <div class="container">
-                <div class="img"><img src="" alt=""></div>
+                <div class="img"><img src="../../Assets/img/curso-em-video.jpg" alt="UniRitter"></div>
                 <div class="certificados">
                     <div class="col1">
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/CursoEmVideo/JAVASCRIPT.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
+                                    <h2>Javascript</h2>
+                                    <p>Curso em vídeo</p>
+                                    <p>NOV/2023</p>
                                 </div>
                             </div>
                         </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/CursoEmVideo/HTML5-CSS3-MODULO4.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
+                                    <h2>HTML5 e CSS3: Módulo 4 de 5 [VIP]</h2>
+                                    <p>Curso em vídeo</p>
+                                    <p>OUT/2023</p>
                                 </div>
                             </div>
                         </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/CursoEmVideo/GIT-E-GITHUB.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
+                                    <h2>GIT e GITHUB</h2>
+                                    <p>Curso em vídeo</p>
+                                    <p>JUN/2023</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="col2">
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/CursoEmVideo/PHP-MODERNO-MODULO01.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
+                                    <h2>PHP Mmoderno módulo 1 [VIP]</h2>
+                                    <p>Curso em vídeo</p>
+                                    <p>JAN/2024</p>
                                 </div>
                             </div>
                         </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/CursoEmVideo/Curso_Ingles_Modulo01.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
+                                    <h2>Curso de inglês módulo 1: Begginers</h2>
+                                    <p>Curso em vídeo</p>
+                                    <p>FEV/2024</p>
                                 </div>
                             </div>
                         </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/CertificadoAmbientes.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
                                     <h2></h2>
+                                    <p>Curso em vídeo</p>
                                     <p></p>
                                 </div>
                             </div>
@@ -232,6 +242,7 @@
                                 <div class="curso">
                                     <p>Curso</p>
                                     <h2></h2>
+                                    <p>Curso em vídeo</p>
                                     <p></p>
                                 </div>
                             </div>
@@ -241,6 +252,7 @@
                                 <div class="curso">
                                     <p>Curso</p>
                                     <h2></h2>
+                                    <p>Curso em vídeo</p>
                                     <p></p>
                                 </div>
                             </div>
@@ -250,6 +262,7 @@
                                 <div class="curso">
                                     <p>Curso</p>
                                     <h2></h2>
+                                    <p>Curso em vídeo</p>
                                     <p></p>
                                 </div>
                             </div>
@@ -260,43 +273,47 @@
         </div>
         <div class="slides" id="tres">
             <div class="container">
-                <div class="img"><img src="" alt=""></div>
+                <div class="img"><img src="../../Assets/img/danki.png" alt="UniRitter"></div>
                 <div class="certificados">
                     <div class="col1">
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/DankiCode/WordpressComElementor.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
+                                    <h2>Curso wordpress com elementor</h2>
+                                    <p>Danki Code</p>
+                                    <p>JAN/2024</p>
                                 </div>
                             </div>
                         </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/DankiCode/CursoDeScratch.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
+                                    <h2>Curso de scratch - crie jogos e animações</h2>
+                                    <p>Danki Code</p>
+                                    <p>JAN/2024</p>
                                 </div>
                             </div>
                         </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/DankiCode/JavascriptParaGames.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
+                                    <h2>Curso de Javascript para games</h2>
+                                    <p>Danki Code</p>
+                                    <p>FEV/2024</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="col2">
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                    <a href="#" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
                                     <h2></h2>
+                                    <p>Danki Code</p>
                                     <p></p>
                                 </div>
                             </div>
@@ -306,6 +323,7 @@
                                 <div class="curso">
                                     <p>Curso</p>
                                     <h2></h2>
+                                    <p>Danki Code</p>
                                     <p></p>
                                 </div>
                             </div>
@@ -315,17 +333,19 @@
                                 <div class="curso">
                                     <p>Curso</p>
                                     <h2></h2>
+                                    <p>Danki Code</p>
                                     <p></p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="col3">
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                    <a href="#" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
                                     <h2></h2>
+                                    <p>Danki Code</p>
                                     <p></p>
                                 </div>
                             </div>
@@ -335,6 +355,7 @@
                                 <div class="curso">
                                     <p>Curso</p>
                                     <h2></h2>
+                                    <p>Danki Code</p>
                                     <p></p>
                                 </div>
                             </div>
@@ -344,6 +365,7 @@
                                 <div class="curso">
                                     <p>Curso</p>
                                     <h2></h2>
+                                    <p>Danki Code</p>
                                     <p></p>
                                 </div>
                             </div>
@@ -354,15 +376,16 @@
         </div>
         <div class="slides" id="quatro">
             <div class="container">
-                <div class="img"><img src="" alt=""></div>
+                <div class="img"><img src="../../Assets/img/kinghost.png" alt="UniRitter"></div>
                 <div class="certificados">
                     <div class="col1">
                         <a href="#" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
+                                    <h2>Javascript</h2>
+                                    <p>Curso em vídeo</p>
+                                    <p>NOV - 2023</p>
                                 </div>
                             </div>
                         </a>

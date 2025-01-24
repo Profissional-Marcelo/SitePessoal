@@ -87,7 +87,7 @@
 
 
 
-
+        <!-- Mudar aqui, em vez de fazer q uatro sliders, fazer três, um referente a instituições de ensino, com um chapéu de formatura. Outra referente a cursos, ainda não decidi o ícone. e a outra referente a ceritifcados recebidos por trabalho, ainda também não decidi -->
         <div class="certificadosNext" id="um">
             <img src="../../Assets/img/fadergs.png" alt="">
             <div class="linhas">
