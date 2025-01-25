@@ -66,7 +66,9 @@
         <h2>Certificados<span>.<span></h2>
         <div class="slides slide-active" id="um">
             <div class="container">
-                <div class="img"><img src="../../Assets/img/uniritter.png" alt="UniRitter"></div>
+                <div class="img"><span class="material-symbols-outlined">
+                        school
+                    </span></div>
                 <div class="certificados">
                     <div class="col1">
                         <a href="#" type="application/pdf" rel="next" target="_blank">
@@ -170,7 +172,9 @@
         </div>
         <div class="slides" id="dois">
             <div class="container">
-                <div class="img"><img src="../../Assets/img/curso-em-video.jpg" alt="UniRitter"></div>
+                <div class="img"><span class="material-symbols-outlined">
+                        language
+                    </span></div>
                 <div class="certificados">
                     <div class="col1">
                         <a href="../../Assets/pdf/CursoEmVideo/JAVASCRIPT.pdf" type="application/pdf" rel="next" target="_blank">
@@ -273,7 +277,9 @@
         </div>
         <div class="slides" id="tres">
             <div class="container">
-                <div class="img"><img src="../../Assets/img/danki.png" alt="UniRitter"></div>
+                <div class="img"><span class="material-symbols-outlined">
+                        work
+                    </span></div>
                 <div class="certificados">
                     <div class="col1">
                         <a href="../../Assets/pdf/DankiCode/WordpressComElementor.pdf" type="application/pdf" rel="next" target="_blank">
@@ -308,7 +314,7 @@
                         </a>
                     </div>
                     <div class="col2">
-                    <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="#" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
@@ -340,7 +346,7 @@
                         </a>
                     </div>
                     <div class="col3">
-                    <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="#" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
@@ -374,106 +380,12 @@
                 </div>
             </div>
         </div>
-        <div class="slides" id="quatro">
-            <div class="container">
-                <div class="img"><img src="../../Assets/img/kinghost.png" alt="UniRitter"></div>
-                <div class="certificados">
-                    <div class="col1">
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
-                            <div class="border-color">
-                                <div class="curso">
-                                    <p>Curso</p>
-                                    <h2>Javascript</h2>
-                                    <p>Curso em vídeo</p>
-                                    <p>NOV - 2023</p>
-                                </div>
-                            </div>
-                        </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
-                            <div class="border-color">
-                                <div class="curso">
-                                    <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
-                            <div class="border-color">
-                                <div class="curso">
-                                    <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col2">
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
-                            <div class="border-color">
-                                <div class="curso">
-                                    <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
-                            <div class="border-color">
-                                <div class="curso">
-                                    <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
-                            <div class="border-color">
-                                <div class="curso">
-                                    <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col3">
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
-                            <div class="border-color">
-                                <div class="curso">
-                                    <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
-                            <div class="border-color">
-                                <div class="curso">
-                                    <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
-                            <div class="border-color">
-                                <div class="curso">
-                                    <p>Curso</p>
-                                    <h2></h2>
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
+       
         <div class="bullets">
             <span class="bullet bullet-active" id="1"></span>
             <span class="bullet" id="2"></span>
             <span class="bullet" id="3"></span>
-            <span class="bullet" id="4"></span>
+       
         </div>
     </section>
     <script src="../../Assets/js/jquery.js"></script>
