@@ -51,7 +51,15 @@
                         <img class="tablet1" src="../../Assets/img/tablet1.png" alt="projeto">
                         <h2>WIKI P2K</h2>
                         <p>Wiki criada para facilitação dos serviços e informações sobre fluxos da equipe de suporte de TI. </p>
-                        <p>Tecnologias utilizadas: HTML, CSS, JavaScript, PHP e MySQL</p>
+                        <p>Tecnologias utilizadas: HTML, CSS, JQuery, PHP e MySQL</p>
+                    </a>
+                </div>
+                <div class="projetos">
+                    <a href="https://estudos.marcelorei.com.br/App/View/home.php" target="_blank">
+                        <img class="tablet1" src="../../Assets/img/tablet3.png" alt="projeto">
+                        <h2>Projetos replicados</h2>
+                        <p>Projeto que criei para organizar todos os projetos replicados de cursos que assisti, além de estruturas de códigos que aprendi para consulta. </p>
+                        <p>Tecnologias utilizadas: HTML, CSS, JavaScript</p>
                     </a>
                 </div>
             </div>
@@ -81,12 +89,12 @@
                                 </div>
                             </div>
                         </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/Fadergs/CertificadoWeb.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
                                     <h2>Usabilidade, Desenvolvimento WEB, Mobile E Jogos</h2>
-                                    <p>Fadergs</p>
+                                    <p>FADERGS</p>
                                     <p>DEZ/2023</p>
                                 </div>
                             </div>
@@ -96,8 +104,8 @@
                                 <div class="curso">
                                     <p>Curso</p>
                                     <h2>Sistemas Distribuidos e Mobile</h2>
-                                    <p>Fadergs</p>
-                                    <p>DEZ/2024</p>
+                                    <p>FADERGS</p>
+                                    <p>DEZ/2023</p>
                                 </div>
                             </div>
                         </a>
@@ -109,7 +117,7 @@
                                 <div class="curso">
                                     <p>Curso</p>
                                     <h2>Programação de soluções computacionais</h2>
-                                    <p>Fadergs</p>
+                                    <p>FADERGS</p>
                                     <p>JUN/2023</p>
                                 </div>
                             </div>
@@ -119,7 +127,7 @@
                                 <div class="curso">
                                     <p>Curso</p>
                                     <h2>Modelagem de software</h2>
-                                    <p>Fadergs</p>
+                                    <p>FADERGS</p>
                                     <p>JUN/2023</p>
                                 </div>
                             </div>
@@ -213,7 +221,7 @@
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2>PHP Mmoderno módulo 1 [VIP]</h2>
+                                    <h2>PHP Moderno módulo 1 [VIP]</h2>
                                     <p>Curso em vídeo</p>
                                     <p>JAN/2024</p>
                                 </div>
@@ -229,25 +237,25 @@
                                 </div>
                             </div>
                         </a>
-                        <a href="../../Assets/pdf/CertificadoAmbientes.pdf" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/DankiCode/CursoDeScratch.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p>Curso em vídeo</p>
-                                    <p></p>
+                                    <h2>Curso de scratch - crie jogos e animações</h2>
+                                    <p>Danki Code</p>
+                                    <p>JAN/2024</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="col3">
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                    <a href="../../Assets/pdf/DankiCode/WordpressComElementor.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p>Curso em vídeo</p>
-                                    <p></p>
+                                    <h2>Curso wordpress com elementor</h2>
+                                    <p>Danki Code</p>
+                                    <p>JAN/2024</p>
                                 </div>
                             </div>
                         </a>
@@ -282,97 +290,97 @@
                     </span></div>
                 <div class="certificados">
                     <div class="col1">
-                        <a href="../../Assets/pdf/DankiCode/WordpressComElementor.pdf" type="application/pdf" rel="next" target="_blank">
+                        <a href="#" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2>Curso wordpress com elementor</h2>
-                                    <p>Danki Code</p>
-                                    <p>JAN/2024</p>
+                                    <h2></h2>
+                                    <p></p>
+                                    <p></p>
                                 </div>
                             </div>
                         </a>
-                        <a href="../../Assets/pdf/DankiCode/CursoDeScratch.pdf" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/KingHost/Modulo2(CMS)-WordPress.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2>Curso de scratch - crie jogos e animações</h2>
-                                    <p>Danki Code</p>
-                                    <p>JAN/2024</p>
+                                    <h2>CMS[Módulo2] - WordPress</h2>
+                                    <p>KingHost</p>
+                                    <p>2024</p>
                                 </div>
                             </div>
                         </a>
-                        <a href="../../Assets/pdf/DankiCode/JavascriptParaGames.pdf" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/KingHost/Modulo11(emails).pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2>Curso de Javascript para games</h2>
-                                    <p>Danki Code</p>
-                                    <p>FEV/2024</p>
+                                    <h2>Emails[Módulo11] - SMTP Transacional</h2>
+                                    <p>KingHost</p>
+                                    <p>2023</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="col2">
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/KingHost/Modulo11(emails).pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p>Danki Code</p>
-                                    <p></p>
+                                    <h2>Essenciais[Módulo2] - Registro de domínio</h2>
+                                    <p>KingHost</p>
+                                    <p>2023</p>
                                 </div>
                             </div>
                         </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/KingHost/Modulo2(Essenciais)-Registro-de-dominios.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p>Danki Code</p>
-                                    <p></p>
+                                    <h2>Essenciais[Módulo3] - DNS</h2>
+                                    <p>KingHost</p>
+                                    <p>2023</p>
                                 </div>
                             </div>
                         </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/KingHost/OKR.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p>Danki Code</p>
-                                    <p></p>
+                                    <h2>OKRs</h2>
+                                    <p>KingHost</p>
+                                    <p>2023</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="col3">
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/KingHost/Treinamento-LGPD.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p>Danki Code</p>
-                                    <p></p>
+                                    <h2>Treinamento LGPD</h2>
+                                    <p>Locaweb</p>
+                                    <p>18/10/2023</p>
                                 </div>
                             </div>
                         </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/KingHost/Modulo3(CMS)-Joomla.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p>Danki Code</p>
-                                    <p></p>
+                                    <h2>CMS[Módulo3] - Joomla</h2>
+                                    <p>KingHost</p>
+                                    <p>2024</p>
                                 </div>
                             </div>
                         </a>
-                        <a href="#" type="application/pdf" rel="next" target="_blank">
+                        <a href="../../Assets/pdf/KingHost/Modulo4(CMS)-Moodle.pdf" type="application/pdf" rel="next" target="_blank">
                             <div class="border-color">
                                 <div class="curso">
                                     <p>Curso</p>
-                                    <h2></h2>
-                                    <p>Danki Code</p>
-                                    <p></p>
+                                    <h2>CMS[Módulo4] - Moodle</h2>
+                                    <p>KingHost</p>
+                                    <p>2024</p>
                                 </div>
                             </div>
                         </a>

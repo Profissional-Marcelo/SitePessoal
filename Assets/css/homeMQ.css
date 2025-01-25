@@ -35,6 +35,16 @@
     section.segunda-parte div.container a p {
         font-size: 1.3rem;
     }
+
+    section.segunda-parte div.container {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+    }
+
+    section.segunda-parte div.container div.parte-um {
+        display: flex;
+    }
     
     section.primeira-parte div.w100 div.titulo-2 h1 {
         transform: translateX(0px);
@@ -64,4 +74,5 @@
     section.terceira-parte div.container div.img{
         transform: translateX(-19px);
     }
+
 }

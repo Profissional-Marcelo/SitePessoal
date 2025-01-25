@@ -135,9 +135,15 @@ section.segunda-parte{
 
 section.segunda-parte div.container{
     display: flex;
-    justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+section.segunda-parte div.container > div {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    max-width: 1500px;
 }
 
 section.segunda-parte div.container a {
@@ -153,6 +159,7 @@ section.segunda-parte div.container a {
 section.segunda-parte div.container a img {
     transform: translateX(25px);
     width: 250px;
+    height: 250px;
 }
 
 section.segunda-parte div.container a h2{
@@ -275,7 +282,7 @@ section.terceira-parte div.slides div.img {
 section.terceira-parte div.slides span {
     margin-left: 2px;
     font-size: 50px;
-    color: #F19E39;
+    color: #C1B3DF;
     width: 50px;
     height: 50px;
 }
