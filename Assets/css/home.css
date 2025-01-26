@@ -140,8 +140,11 @@ section.segunda-parte div.container{
 }
 
 section.segunda-parte div.container > div {
+    margin: 20px 0px 10px 0px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+   
+    flex-direction: column;
     width: 100%;
     max-width: 1500px;
 }

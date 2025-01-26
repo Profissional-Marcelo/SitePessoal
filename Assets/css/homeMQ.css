@@ -42,10 +42,10 @@
         flex-direction: column;
     }
 
-    section.segunda-parte div.container div.parte-um {
-        display: flex;
+    section.segunda-parte div.container > div {
+        flex-direction: row;
+        justify-content: space-evenly;
     }
-    
     section.primeira-parte div.w100 div.titulo-2 h1 {
         transform: translateX(0px);
     }
