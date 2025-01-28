@@ -396,6 +396,14 @@
        
         </div>
     </section>
+    <section class="quarta-parte">
+        <h2>Deseja entrar em contato comigo?</h2>
+        <p>Que tal me enviar um e-mail?</p>
+        <form action="../../App/Controller/faleComigo.php">
+            <input type="text" name="assunto" id="assunto">
+            <textarea name="mensagem" id="mensagem"></textarea>
+        </form>
+    </section>
     <script src="../../Assets/js/jquery.js"></script>
     <script src="../../Assets/js/home.js"></script>
 </body>
